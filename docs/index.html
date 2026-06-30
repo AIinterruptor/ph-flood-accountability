@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en" x-data="app()" x-init="init()">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PH Flood Control Accountability Monitor</title>
+  <script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.x.x/dist/chart.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.x/dist/leaflet.js"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.x/dist/leaflet.css" />
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body class="bg-gray-50 min-h-screen" x-cloak>
+
+  <!-- Header -->
+  <header class="bg-blue-900 text-white px-4 py-3 flex items-center justify-between shadow">
+    <div class="flex items-center gap-2">
+      <span class="text-xl font-bold">PH Flood Control Accountability Monitor</span>
+    </div>
+    <div class="text-sm text-blue-200">
+      Last updated: <span x-text="index.last_updated ? index.last_updated.slice(0,10) : 'Loading...'"></span>
+    </div>
+  </header>
+
+  <!-- Filter Bar -->
+  <div class="bg-white border-b px-4 py-2 flex flex-wrap gap-3 items-center">
+    <select x-model="filter.region" class="border rounded px-2 py-1 text-sm">
+      <option value="">All Regions</option>
+      <option value="NCR">NCR (Metro Manila)</option>
+      <option value="R3">Region III</option>
+      <option value="R4A">Region IV-A</option>
+      <option value="R7">Region VII</option>
+    </select>
+    <select x-model="filter.agency" class="border rounded px-2 py-1 text-sm">
+      <option value="">All Agencies</option>
+      <option value="DPWH">DPWH</option>
+      <option value="MMDA">MMDA</option>
+      <option value="DILG">DILG</option>
+    </select>
+    <select x-model="filter.status" class="border rounded px-2 py-1 text-sm">
+      <option value="">All Statuses</option>
+      <option value="convicted">Convicted</option>
+      <option value="charged">Charged</option>
+      <option value="pending">Pending</option>
+      <option value="acquitted">Acquitted</option>
+    </select>
+    <input x-model="filter.search" type="search" placeholder="Search..." class="border rounded px-2 py-1 text-sm flex-1 min-w-48" />
+  </div>
+
+  <!-- Stat Cards -->
+  <div class="grid grid-cols-2 md:grid-cols-5 gap-3 px-4 py-4">
+    <div class="stat-card">
+      <div class="text-2xl font-bold text-blue-700" x-text="index.totals?.projects ?? '—'"></div>
+      <div class="text-xs text-gray-500 mt-1">Projects</div>
+    </div>
+    <div class="stat-card">
+      <div class="text-2xl font-bold text-orange-600" x-text="index.totals?.persons ?? '—'"></div>
+      <div class="text-xs text-gray-500 mt-1">Officials Tracked</div>
+    </div>
+    <div class="stat-card">
+      <div class="text-2xl font-bold text-yellow-600" x-text="index.totals?.cases ?? '—'"></div>
+      <div class="text-xs text-gray-500 mt-1">Cases</div>
+    </div>
+    <div class="stat-card">
+      <div class="text-2xl font-bold text-red-700" x-text="index.totals?.convicted ?? '—'"></div>
+      <div class="text-xs text-gray-500 mt-1">Convicted</div>
+    </div>
+    <div class="stat-card col-span-2 md:col-span-1">
+      <div class="text-lg font-bold text-gray-700" x-text="index.totals ? '₱' + formatPHP(index.totals.funds_at_risk_php) : '—'"></div>
+      <div class="text-xs text-gray-500 mt-1">Funds at Risk</div>
+    </div>
+  </div>
+
+  <!-- Tabs -->
+  <div class="bg-white border-b px-4">
+    <nav class="flex gap-6 text-sm">
+      <template x-for="tab in ['Projects','Persons','Cases','Timeline','Map']">
+        <button
+          :class="activeTab === tab ? 'tab-active' : 'tab-inactive'"
+          class="py-3 transition-colors"
+          @click="switchTab(tab)"
+          x-text="tab">
+        </button>
+      </template>
+    </nav>
+  </div>
+
+  <!-- Main Content -->
+  <main class="px-4 py-4 max-w-7xl mx-auto">
+
+    <!-- Projects Tab -->
+    <div x-show="activeTab === 'Projects'">
+      <div class="grid gap-3 md:grid-cols-2 lg:grid-cols-3">
+        <template x-for="p in filteredProjects()" :key="p.id">
+          <div class="card" @click="showDetail('project', p)">
+            <div class="flex justify-between items-start">
+              <h3 class="font-semibold text-gray-800 text-sm" x-text="p.name"></h3>
+              <span class="status-pill" :class="'status-' + p.status" x-text="p.status.replace('_',' ')"></span>
+            </div>
+            <div class="text-xs text-gray-500 mt-1">
+              <span x-text="p.agency"></span> · <span x-text="p.region"></span>
+            </div>
+            <div class="text-sm font-medium text-gray-700 mt-2" x-text="'₱' + formatPHP(p.budget_php)"></div>
+            <div class="flex gap-3 mt-2 text-xs text-gray-500">
+              <span x-text="p.cases.length + ' case(s)'"></span>
+              <span x-text="p.persons.length + ' person(s)'"></span>
+              <template x-if="p.coa_findings.length">
+                <span class="text-yellow-600">⚠ COA finding</span>
+              </template>
+            </div>
+          </div>
+        </template>
+        <div x-show="filteredProjects().length === 0" class="col-span-3 text-center text-gray-400 py-12">No projects match your filters.</div>
+      </div>
+    </div>
+
+    <!-- Persons Tab -->
+    <div x-show="activeTab === 'Persons'">
+      <div class="overflow-x-auto">
+        <table class="min-w-full bg-white rounded-lg shadow-sm border text-sm">
+          <thead class="bg-gray-50 text-gray-600 text-xs uppercase">
+            <tr>
+              <th class="px-4 py-3 text-left">Name</th>
+              <th class="px-4 py-3 text-left">Position</th>
+              <th class="px-4 py-3 text-left">Agency</th>
+              <th class="px-4 py-3 text-left">Admin Track</th>
+              <th class="px-4 py-3 text-left">Criminal Track</th>
+              <th class="px-4 py-3 text-left">Status</th>
+            </tr>
+          </thead>
+          <tbody>
+            <template x-for="p in filteredPersons()" :key="p.id">
+              <tr class="border-t hover:bg-gray-50 cursor-pointer" @click="showDetail('person', p)">
+                <td class="px-4 py-3 font-medium" x-text="p.name"></td>
+                <td class="px-4 py-3 text-gray-600" x-text="p.position"></td>
+                <td class="px-4 py-3 text-gray-600" x-text="p.agency"></td>
+                <td class="px-4 py-3 text-gray-600" x-text="p.admin_track?.stage ?? '—'"></td>
+                <td class="px-4 py-3 text-gray-600" x-text="p.criminal_track?.stage ?? '—'"></td>
+                <td class="px-4 py-3">
+                  <span class="status-pill" :class="'status-' + p.status" x-text="p.status.replace('_',' ')"></span>
+                </td>
+              </tr>
+            </template>
+            <tr x-show="filteredPersons().length === 0">
+              <td colspan="6" class="text-center text-gray-400 py-8">No persons match your filters.</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- Cases Tab -->
+    <div x-show="activeTab === 'Cases'">
+      <div class="overflow-x-auto">
+        <table class="min-w-full bg-white rounded-lg shadow-sm border text-sm">
+          <thead class="bg-gray-50 text-gray-600 text-xs uppercase">
+            <tr>
+              <th class="px-4 py-3 text-left">Docket</th>
+              <th class="px-4 py-3 text-left">Court</th>
+              <th class="px-4 py-3 text-left">Charge</th>
+              <th class="px-4 py-3 text-left">Amount</th>
+              <th class="px-4 py-3 text-left">Stage</th>
+              <th class="px-4 py-3 text-left">Filed</th>
+              <th class="px-4 py-3 text-left"></th>
+            </tr>
+          </thead>
+          <tbody>
+            <template x-for="c in filteredCases()" :key="c.id">
+              <tr class="border-t hover:bg-gray-50 cursor-pointer" @click="showDetail('case', c)">
+                <td class="px-4 py-3 font-medium" x-text="c.docket"></td>
+                <td class="px-4 py-3 text-gray-600" x-text="c.court"></td>
+                <td class="px-4 py-3 text-gray-600" x-text="c.charge"></td>
+                <td class="px-4 py-3 text-gray-600" x-text="'₱' + formatPHP(c.amount_php)"></td>
+                <td class="px-4 py-3 text-gray-600" x-text="c.stage"></td>
+                <td class="px-4 py-3 text-gray-600" x-text="c.filed_date"></td>
+                <td class="px-4 py-3">
+                  <template x-if="c.discrepancy">
+                    <span class="text-yellow-600 text-xs font-medium">⚠ Sources conflict</span>
+                  </template>
+                </td>
+              </tr>
+            </template>
+            <tr x-show="filteredCases().length === 0">
+              <td colspan="7" class="text-center text-gray-400 py-8">No cases match your filters.</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- Timeline Tab -->
+    <div x-show="activeTab === 'Timeline'">
+      <div class="space-y-2 max-w-2xl">
+        <template x-for="(ev, i) in timeline.slice(0, 100)" :key="i">
+          <div class="flex gap-3 items-start bg-white rounded border p-3">
+            <span class="text-xs text-gray-400 w-24 shrink-0" x-text="ev.date"></span>
+            <span class="text-xs bg-gray-100 text-gray-600 px-1.5 py-0.5 rounded" x-text="ev.source_type"></span>
+            <span class="text-sm text-gray-800" x-text="ev.event"></span>
+          </div>
+        </template>
+        <div x-show="timeline.length === 0" class="text-center text-gray-400 py-12">No timeline events yet.</div>
+      </div>
+    </div>
+
+    <!-- Map Tab -->
+    <div x-show="activeTab === 'Map'">
+      <div id="map" class="rounded-lg border" style="height:500px;"></div>
+    </div>
+
+  </main>
+
+  <!-- Detail Panel -->
+  <div x-show="detail.open" class="fixed inset-0 bg-black/40 z-50 flex justify-end" @click.self="detail.open = false">
+    <div class="bg-white w-full max-w-lg h-full overflow-y-auto p-6 shadow-xl">
+      <button class="mb-4 text-gray-400 hover:text-gray-700 text-sm" @click="detail.open = false">← Back</button>
+      <div x-html="renderDetail()"></div>
+    </div>
+  </div>
+
+  <!-- Footer: Source Health -->
+  <footer class="bg-white border-t px-4 py-3 mt-8 text-xs text-gray-500 flex flex-wrap gap-4">
+    <span class="font-medium text-gray-700">Source health:</span>
+    <template x-for="[src, info] in Object.entries(index.source_health ?? {})">
+      <span>
+        <span x-text="src"></span>
+        <span :class="info.status === 'ok' ? 'source-ok' : info.status === 'stale' ? 'source-stale' : 'source-error'"
+              x-text="info.status === 'ok' ? ' ✓' : info.status === 'stale' ? ' ⚠' : ' ✗'"></span>
+        <span class="text-gray-400" x-text="'(' + (info.last_success ?? 'never') + ')'"></span>
+      </span>
+    </template>
+    <span class="ml-auto">
+      Data quality: <span x-text="index.data_quality?.discrepancies_flagged ?? 0"></span> discrepancies flagged
+    </span>
+  </footer>
+
+  <script src="assets/app.js"></script>
+  <script src="assets/charts.js"></script>
+
+</body>
+</html>

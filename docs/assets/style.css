@@ -1,0 +1,22 @@
+/* Custom overrides on top of Tailwind */
+[x-cloak] { display: none !important; }
+
+.status-pill {
+  @apply inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium;
+}
+.status-convicted  { @apply bg-red-100 text-red-800; }
+.status-charged    { @apply bg-orange-100 text-orange-800; }
+.status-pending    { @apply bg-yellow-100 text-yellow-800; }
+.status-acquitted  { @apply bg-green-100 text-green-800; }
+.status-suspended  { @apply bg-purple-100 text-purple-800; }
+.status-under_investigation { @apply bg-blue-100 text-blue-800; }
+
+.tab-active { @apply border-b-2 border-blue-600 text-blue-600 font-semibold; }
+.tab-inactive { @apply text-gray-500 hover:text-gray-700; }
+
+.card { @apply bg-white rounded-lg shadow-sm border border-gray-200 p-4 hover:shadow-md transition-shadow cursor-pointer; }
+.stat-card { @apply bg-white rounded-lg shadow-sm border border-gray-200 p-5 text-center; }
+
+.source-ok    { @apply text-green-600; }
+.source-stale { @apply text-yellow-600; }
+.source-error { @apply text-red-600; }
