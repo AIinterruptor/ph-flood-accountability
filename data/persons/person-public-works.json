@@ -1,17 +1,17 @@
 {
-  "id": "person-bonoan-accepted-as-state-witness",
-  "name": "Bonoan accepted as state witness",
-  "position": "",
+  "id": "person-public-works",
+  "name": "Public Works",
+  "position": "Secretary",
   "agency": "Unknown",
   "region": "Unknown",
-  "status": "pending",
+  "status": "charged",
   "admin_track": {
     "stage": "none",
     "status": "none",
     "case_ids": []
   },
   "criminal_track": {
-    "stage": "investigation",
+    "stage": "filed",
     "status": "pending",
     "case_ids": []
   },
@@ -19,7 +19,7 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://www.philstar.com/headlines/2026/06/30/2538738/bonoan-accepted-state-witness",
+      "url": "https://newsinfo.inquirer.net/2254976/arraignment-of-estrada-bonoan-moved-to-july-28",
       "date": "2026-06-30"
     }
   ],
