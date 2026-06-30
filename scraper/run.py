@@ -11,9 +11,10 @@ from scraper.validator import validate_project, validate_person, validate_case, 
 DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "data")
 TODAY = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
-# Keywords that hint a raw record is a case vs a project vs a person
-_CASE_KEYS = {"docket", "court", "charge", "filed_date"}
-_PERSON_KEYS = {"person_name", "position"}
+# Required key sets — ALL keys must be present for a match
+_CASE_REQUIRED = {"docket", "court", "charge", "filed_date"}
+_PERSON_REQUIRED = {"person_name"}
+_PROJECT_REQUIRED = {"project_name"}
 
 
 def _write_json(path: str, obj) -> None:
@@ -27,12 +28,28 @@ def _classify_and_normalize(raw: dict) -> tuple:
     src_type = raw.get("_source_type", "unknown")
     src_url = raw.get("_source_url", "")
     keys = set(raw.keys())
-    if _CASE_KEYS & keys:
-        return "case", normalize_case(raw, src_type, src_url, TODAY)
-    if _PERSON_KEYS & keys:
+
+    # Explicit override wins
+    kind = raw.get("_entity_kind")
+    if kind == "person":
         return "person", normalize_person(raw, src_type, src_url, TODAY)
+    if kind == "case":
+        return "case", normalize_case(raw, src_type, src_url, TODAY)
+    if kind == "project":
+        return "project", normalize_project(raw, src_type, src_url, TODAY)
+
+    # Person check before case — ombudsman records have both person_name AND charge
+    if _PERSON_REQUIRED <= keys:
+        return "person", normalize_person(raw, src_type, src_url, TODAY)
+
+    # Case requires ALL four core keys
+    if _CASE_REQUIRED <= keys:
+        return "case", normalize_case(raw, src_type, src_url, TODAY)
+
+    # Project
     if "project_name" in keys or "name" in keys:
         return "project", normalize_project(raw, src_type, src_url, TODAY)
+
     return None, None
 
 

@@ -25,8 +25,12 @@ def fetch() -> list:
                 results.append({
                     "_source_type": "dilg",
                     "_source_url": url,
-                    "title": text[:200],
-                    "summary": text[:500],
+                    "_entity_kind": "project",
+                    "project_name": text[:200],
+                    "implementing_agency": "DILG",
+                    "region_code": "Unknown",
+                    "total_contract_amount": "PHP 0",
+                    "status_note": "under_investigation",
                 })
             time.sleep(2)
     except Exception:

@@ -26,6 +26,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Copy data into docs
+        run: cp -r data docs/data
+
       - name: Setup Pages
         uses: actions/configure-pages@v4
 

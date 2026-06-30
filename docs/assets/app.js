@@ -1,6 +1,6 @@
 /* global initMap */
 
-const DATA_BASE = '../data';
+const DATA_BASE = 'data';
 
 async function fetchJSON(url) {
   const resp = await fetch(url);

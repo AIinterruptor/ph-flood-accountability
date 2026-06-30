@@ -26,10 +26,14 @@ def fetch() -> list:
                     results.append({
                         "_source_type": "news",
                         "_source_url": entry.get("link", url),
+                        "_entity_kind": "person",
+                        "person_name": entry.get("title", "Unknown")[:80],
+                        "position": "",
+                        "agency": "Unknown",
+                        "stage": "filed",
+                        "status": "charged",
                         "title": entry.get("title", ""),
                         "summary": entry.get("summary", ""),
-                        "outlet": outlet,
-                        "published": entry.get("published", ""),
                     })
             time.sleep(2)
         except Exception:

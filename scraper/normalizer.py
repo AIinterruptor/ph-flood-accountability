@@ -126,7 +126,14 @@ def normalize_person(raw: dict, source_type: str, source_url: str, today: str) -
         },
         "criminal_track": {
             "stage": _map_case_stage(raw.get("stage", "filed")),
-            "status": _map_person_status(raw.get("status", "pending")),
+            "status": {
+                "charged": "pending",
+                "pending": "pending",
+                "convicted": "convicted",
+                "acquitted": "acquitted",
+                "suspended": "pending",
+                "under_investigation": "pending",
+            }.get(raw.get("status", "").lower().strip(), "pending"),
             "case_ids": []
         },
         "projects": [],
