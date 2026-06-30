@@ -1,0 +1,27 @@
+{
+  "id": "person-bonoan-accepted-as-state-witness",
+  "name": "Bonoan accepted as state witness",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "charged",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "filed",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/headlines/2026/06/30/2538738/bonoan-accepted-state-witness",
+      "date": "2026-06-30"
+    }
+  ],
+  "last_updated": "2026-06-30"
+}
