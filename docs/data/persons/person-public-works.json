@@ -1,0 +1,27 @@
+{
+  "id": "person-public-works",
+  "name": "Public Works",
+  "position": "Secretary",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "charged",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "filed",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2254976/arraignment-of-estrada-bonoan-moved-to-july-28",
+      "date": "2026-06-30"
+    }
+  ],
+  "last_updated": "2026-06-30"
+}

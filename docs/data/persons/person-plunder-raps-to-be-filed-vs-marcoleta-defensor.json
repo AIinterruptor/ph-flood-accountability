@@ -1,0 +1,27 @@
+{
+  "id": "person-plunder-raps-to-be-filed-vs-marcoleta-defensor",
+  "name": "Plunder raps to be filed vs Marcoleta, Defensor",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/headlines/2026/06/30/2538721/plunder-raps-be-filed-vs-marcoleta-defensor",
+      "date": "2026-06-30"
+    }
+  ],
+  "last_updated": "2026-06-30"
+}

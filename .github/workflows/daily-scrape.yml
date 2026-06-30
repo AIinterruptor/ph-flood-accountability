@@ -30,8 +30,9 @@ jobs:
         run: |
           git config user.name "flood-bot"
           git config user.email "flood-bot@users.noreply.github.com"
-          git diff --quiet data/ || (
-            git add data/
+          cp -r data/. docs/data/
+          git diff --quiet data/ docs/data/ || (
+            git add data/ docs/data/
             git commit -m "data: auto-update $(date +%Y-%m-%d)"
             git push
           )

@@ -1,0 +1,23 @@
+{
+  "id": "case-sb-23-crm-9999",
+  "docket": "SB-23-CRM-9999",
+  "court": "Sandiganbayan",
+  "track": "criminal",
+  "charge": "Malversation of Public Funds",
+  "amount_php": 100000000,
+  "persons": [],
+  "projects": [],
+  "filed_date": "2023-01-01",
+  "stage": "trial",
+  "decision": null,
+  "discrepancy": false,
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://inquirer.net/test",
+      "date": "2026-06-30"
+    }
+  ],
+  "timeline": [],
+  "last_updated": "2026-06-30"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "person-multiple-raps-filed-vs-3-robbery-suspects",
+  "name": "Multiple raps filed vs 3 robbery suspects",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2254890/multiple-raps-filed-vs-3-robbery-suspects",
+      "date": "2026-06-30"
+    }
+  ],
+  "last_updated": "2026-06-30"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "person-manuel-bonoan",
+  "name": "Manuel Bonoan",
+  "position": "Secretary",
+  "agency": "DPWH",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "filed",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2254897/remulla-ex-dpwh-chief-bonoan-to-be-used-as-state-witness",
+      "date": "2026-06-30"
+    }
+  ],
+  "last_updated": "2026-06-30"
+}

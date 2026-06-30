@@ -1,0 +1,27 @@
+{
+  "id": "person-inc-airs-support-for-marcoleta-hits-selective-justice",
+  "name": "INC airs support for Marcoleta, hits ‘selective justice’",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2255008/inc-airs-support-for-marcoleta-hits-selective-justice",
+      "date": "2026-06-30"
+    }
+  ],
+  "last_updated": "2026-06-30"
+}

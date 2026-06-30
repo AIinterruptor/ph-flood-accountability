@@ -1,0 +1,27 @@
+{
+  "id": "person-pedro-reyes",
+  "name": "Pedro Reyes",
+  "position": "Director",
+  "agency": "DPWH",
+  "region": "Unknown",
+  "status": "charged",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "arraignment",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "ombudsman",
+      "url": "https://ombudsman.gov.ph",
+      "date": "2026-06-30"
+    }
+  ],
+  "last_updated": "2026-06-30"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "person-rallyists-from-unidentified-groups-gather-at-liwasang-bonifa",
+  "name": "Rallyists from unidentified groups gather at Liwasang Bonifacio",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2254979/rallyists-from-unidentified-group-gather-at-liwasang-bonifacio",
+      "date": "2026-06-30"
+    }
+  ],
+  "last_updated": "2026-06-30"
+}

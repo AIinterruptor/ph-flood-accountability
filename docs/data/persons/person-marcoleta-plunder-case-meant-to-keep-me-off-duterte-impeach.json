@@ -1,0 +1,27 @@
+{
+  "id": "person-marcoleta-plunder-case-meant-to-keep-me-off-duterte-impeach",
+  "name": "Marcoleta: Plunder case meant to keep me off Duterte impeach trial",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2254968/arcoleta-plunder-case-meant-to-keep-me-off-duterte-impeach-trial",
+      "date": "2026-06-30"
+    }
+  ],
+  "last_updated": "2026-06-30"
+}
