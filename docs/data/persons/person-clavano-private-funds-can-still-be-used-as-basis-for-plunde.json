@@ -1,0 +1,27 @@
+{
+  "id": "person-clavano-private-funds-can-still-be-used-as-basis-for-plunde",
+  "name": "Clavano: Private funds can still be used as basis for plunder case",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2255557/clavano-private-funds-can-still-be-used-as-basis-for-plunder-case",
+      "date": "2026-06-30"
+    }
+  ],
+  "last_updated": "2026-06-30"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "person-lawmaker-sees-marcoletas-imminent-plunder-case-as-selectiv",
+  "name": "Lawmaker sees Marcoleta’s imminent plunder case as ‘selective justice’",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2255553/lawmaker-sees-marcoletas-imminent-plunder-case-as-selective-justice",
+      "date": "2026-06-30"
+    }
+  ],
+  "last_updated": "2026-06-30"
+}

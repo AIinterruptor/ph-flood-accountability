@@ -1,0 +1,27 @@
+{
+  "id": "person-house-speaker-martin-romualdez",
+  "name": "House Speaker Martin Romualdez",
+  "position": "",
+  "agency": "DPWH",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "filed",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2255430/ombudsman-bonoans-state-witness-bid-made-to-pin-down-romualdez",
+      "date": "2026-06-30"
+    }
+  ],
+  "last_updated": "2026-06-30"
+}
