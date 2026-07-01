@@ -1,0 +1,27 @@
+{
+  "id": "person-mmda-no-shortcuts-in-tupad-flood-mitigation-program",
+  "name": "MMDA: No shortcuts in Tupad – flood mitigation program",
+  "position": "",
+  "agency": "MMDA",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2256140/mmda-no-shortcuts-in-tupad-flood-mitigation-program",
+      "date": "2026-07-01"
+    }
+  ],
+  "last_updated": "2026-07-01"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "person-despite-rallies-ombudsman-filing-plunder-charges-vs-marcole",
+  "name": "Despite rallies, Ombudsman filing plunder charges vs Marcoleta this week",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2256105/despite-rallies-ombudsman-filing-plunder-charges-vs-marcoleta-this-week",
+      "date": "2026-07-01"
+    }
+  ],
+  "last_updated": "2026-07-01"
+}

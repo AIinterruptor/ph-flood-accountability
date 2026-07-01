@@ -1,0 +1,27 @@
+{
+  "id": "person-barbers-house-prosecutors-may-seek-lower-conviction-thresho",
+  "name": "Barbers: House prosecutors may seek lower conviction threshold",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2256095/barbers-house-prosecutors-may-seek-lower-conviction-threshold",
+      "date": "2026-07-01"
+    }
+  ],
+  "last_updated": "2026-07-01"
+}

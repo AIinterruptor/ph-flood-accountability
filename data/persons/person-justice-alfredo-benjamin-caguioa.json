@@ -1,0 +1,27 @@
+{
+  "id": "person-justice-alfredo-benjamin-caguioa",
+  "name": "Justice Alfredo Benjamin Caguioa",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "filed",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2256128/hindi-ganito-dapat-caguioa-urges-law-grads-to-fight-systemic-corruption",
+      "date": "2026-07-01"
+    }
+  ],
+  "last_updated": "2026-07-01"
+}
