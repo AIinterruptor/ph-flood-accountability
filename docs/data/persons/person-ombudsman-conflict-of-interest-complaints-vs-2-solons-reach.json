@@ -1,0 +1,27 @@
+{
+  "id": "person-ombudsman-conflict-of-interest-complaints-vs-2-solons-reach",
+  "name": "Ombudsman: Conflict of interest complaints vs 2 solons reach probe stage",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2256682/conflict-of-interest-complaints-vs-2-solons-reach-probe-stage",
+      "date": "2026-07-02"
+    }
+  ],
+  "last_updated": "2026-07-02"
+}

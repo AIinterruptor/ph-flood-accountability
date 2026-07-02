@@ -1,0 +1,27 @@
+{
+  "id": "person-cidg-ready-to-arrest-marcoleta",
+  "name": "CIDG ready to arrest Marcoleta",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/headlines/2026/07/03/2539459/cidg-ready-arrest-marcoleta",
+      "date": "2026-07-02"
+    }
+  ],
+  "last_updated": "2026-07-02"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "person-3-suspects-charged-in-kidnap-slay-of-ex-leyte-vice-mayor-so",
+  "name": "3 suspects charged in kidnap-slay of ex-Leyte vice mayor, son",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2256626/3-suspects-charged-in-kidnap-slay-of-ex-leyte-vice-mayor-son",
+      "date": "2026-07-02"
+    }
+  ],
+  "last_updated": "2026-07-02"
+}

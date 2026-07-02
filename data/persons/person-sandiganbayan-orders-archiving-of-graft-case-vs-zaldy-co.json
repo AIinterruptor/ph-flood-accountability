@@ -1,0 +1,27 @@
+{
+  "id": "person-sandiganbayan-orders-archiving-of-graft-case-vs-zaldy-co",
+  "name": "Sandiganbayan orders archiving of graft case vs Zaldy Co",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2256758/sandiganbayan-orders-archiving-of-graft-case-vs-zaldy-co",
+      "date": "2026-07-02"
+    }
+  ],
+  "last_updated": "2026-07-02"
+}
