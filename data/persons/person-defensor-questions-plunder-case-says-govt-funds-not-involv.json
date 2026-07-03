@@ -1,0 +1,27 @@
+{
+  "id": "person-defensor-questions-plunder-case-says-govt-funds-not-involv",
+  "name": "Defensor questions plunder case, says gov’t funds not involved",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2257248/defensor-questions-plunder-case-says-govt-funds-not-involved",
+      "date": "2026-07-03"
+    }
+  ],
+  "last_updated": "2026-07-03"
+}

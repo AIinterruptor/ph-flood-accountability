@@ -1,0 +1,27 @@
+{
+  "id": "person-dpwh-edsa-rehab-phase-2-starts-saturday-evening-july-3",
+  "name": "DPWH: Edsa rehab phase 2 starts Saturday evening, July 3",
+  "position": "",
+  "agency": "DPWH",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2257219/dpwh-edsa-rehab-phase-2-starts-saturday-evening-july-3",
+      "date": "2026-07-03"
+    }
+  ],
+  "last_updated": "2026-07-03"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "person-mmda-to-motorists-take-alternate-routes-for-qc-road-repairs",
+  "name": "MMDA to motorists: Take alternate routes for QC road repairs July 3-6",
+  "position": "",
+  "agency": "DPWH",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2257211/mmda-to-motorists-take-alternate-routes-for-qc-road-repairs-july-3-6",
+      "date": "2026-07-03"
+    }
+  ],
+  "last_updated": "2026-07-03"
+}
