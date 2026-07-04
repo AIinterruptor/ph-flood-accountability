@@ -1,0 +1,27 @@
+{
+  "id": "person-marcoleta-can-now-defend-himself-in-court",
+  "name": "‘Marcoleta can now defend himself in court’",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/headlines/2026/07/05/2539883/marcoleta-can-now-defend-himself-court",
+      "date": "2026-07-04"
+    }
+  ],
+  "last_updated": "2026-07-04"
+}

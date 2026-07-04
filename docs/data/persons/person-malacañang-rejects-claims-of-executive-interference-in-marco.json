@@ -1,0 +1,27 @@
+{
+  "id": "person-malacañang-rejects-claims-of-executive-interference-in-marco",
+  "name": "Malacañang rejects claims of executive interference in Marcoleta case",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2257365/malacanang-rejects-claims-of-executive-interference-in-marcoleta-case",
+      "date": "2026-07-04"
+    }
+  ],
+  "last_updated": "2026-07-04"
+}

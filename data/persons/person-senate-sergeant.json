@@ -1,0 +1,27 @@
+{
+  "id": "person-senate-sergeant",
+  "name": "Senate Sergeant",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "filed",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2257420/former-senate-sgtarms-dismissed-from-service-ombudsman-2",
+      "date": "2026-07-04"
+    }
+  ],
+  "last_updated": "2026-07-04"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "person-p75-m-plunder-case-filed-vs-marcoleta-3-friends",
+  "name": "P75-M plunder case filed vs Marcoleta, 3 ‘friends’",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2257259/p75-m-plunder-case-filed-vs-marcoleta-3-friends",
+      "date": "2026-07-04"
+    }
+  ],
+  "last_updated": "2026-07-04"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "person-zaldy-cos-graft-case-archived",
+  "name": "Zaldy Co’s graft  case archived",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2257254/zaldy-cos-graft-case-archived",
+      "date": "2026-07-04"
+    }
+  ],
+  "last_updated": "2026-07-04"
+}
