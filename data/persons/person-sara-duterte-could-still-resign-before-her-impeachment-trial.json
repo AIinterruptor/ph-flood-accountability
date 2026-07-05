@@ -1,0 +1,27 @@
+{
+  "id": "person-sara-duterte-could-still-resign-before-her-impeachment-trial",
+  "name": "Sara Duterte could still resign before her impeachment trial – lawyers",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2257702/sara-duterte-could-still-resign-before-impeachment-trial-lawyers",
+      "date": "2026-07-05"
+    }
+  ],
+  "last_updated": "2026-07-05"
+}

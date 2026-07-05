@@ -1,0 +1,27 @@
+{
+  "id": "person-president-marcos-on-flood-control-probe-were-not-done-yet",
+  "name": "President Marcos on flood control probe: We’re not done yet",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/headlines/2026/07/06/2540107/president-marcos-flood-control-probe-were-not-done-yet",
+      "date": "2026-07-05"
+    }
+  ],
+  "last_updated": "2026-07-05"
+}

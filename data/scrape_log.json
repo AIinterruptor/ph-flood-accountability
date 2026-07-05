@@ -1,30 +1,30 @@
 {
-  "run_date": "2026-07-04",
+  "run_date": "2026-07-05",
   "sources": {
     "coa": {
       "status": "ok",
       "records": 0,
-      "last_success": "2026-07-04"
+      "last_success": "2026-07-05"
     },
     "ombudsman": {
       "status": "ok",
       "records": 0,
-      "last_success": "2026-07-04"
+      "last_success": "2026-07-05"
     },
     "sandiganbayan": {
       "status": "ok",
       "records": 0,
-      "last_success": "2026-07-04"
+      "last_success": "2026-07-05"
     },
     "news": {
       "status": "ok",
-      "records": 6,
-      "last_success": "2026-07-04"
+      "records": 4,
+      "last_success": "2026-07-05"
     },
     "dilg": {
       "status": "ok",
       "records": 0,
-      "last_success": "2026-07-04"
+      "last_success": "2026-07-05"
     }
   },
   "errors": []

@@ -1,0 +1,27 @@
+{
+  "id": "person-president-rodrigo-duterte",
+  "name": "President Rodrigo Duterte",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "filed",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2257933/marcos-blames-duterte-for-inaction-on-flood-control-anomalies",
+      "date": "2026-07-05"
+    }
+  ],
+  "last_updated": "2026-07-05"
+}
