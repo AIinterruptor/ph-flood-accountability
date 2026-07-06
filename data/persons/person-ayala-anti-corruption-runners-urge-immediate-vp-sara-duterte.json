@@ -1,0 +1,27 @@
+{
+  "id": "person-ayala-anti-corruption-runners-urge-immediate-vp-sara-duterte",
+  "name": "Ayala anti-corruption runners urge immediate VP Sara Duterte trial",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2258572/ayala-anti-corruption-runners-urge-immediate-vp-sara-duterte-trial",
+      "date": "2026-07-06"
+    }
+  ],
+  "last_updated": "2026-07-06"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "person-cayetano-to-impeach-court-ask-sandigan-to-allow-marcoleta",
+  "name": "Cayetano to impeach court: Ask Sandigan to allow Marcoleta, Estrada to attend tr",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2258639/cayetano-to-impeach-court-tell-sandigan-to-allow-marcoleta-estrada-to-attend-trial",
+      "date": "2026-07-06"
+    }
+  ],
+  "last_updated": "2026-07-06"
+}

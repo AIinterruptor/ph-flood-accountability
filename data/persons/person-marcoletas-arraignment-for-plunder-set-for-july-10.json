@@ -1,0 +1,27 @@
+{
+  "id": "person-marcoletas-arraignment-for-plunder-set-for-july-10",
+  "name": "Marcoleta’s arraignment for plunder set for July 10",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2258791/marcoletas-arraignment-for-plunder-set-for-july-10",
+      "date": "2026-07-06"
+    }
+  ],
+  "last_updated": "2026-07-06"
+}
