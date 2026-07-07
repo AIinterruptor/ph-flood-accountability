@@ -1,0 +1,27 @@
+{
+  "id": "person-aplascas-dismissal-due-to-grave-misconduct-gross-neglect-o",
+  "name": "Aplasca’s dismissal due to grave misconduct, gross neglect of duty",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2259493/aplascas-dismissal-due-to-grave-misconduct-gross-neglect-of-duty",
+      "date": "2026-07-07"
+    }
+  ],
+  "last_updated": "2026-07-07"
+}

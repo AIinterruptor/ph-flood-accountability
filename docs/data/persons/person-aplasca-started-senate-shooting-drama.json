@@ -1,0 +1,27 @@
+{
+  "id": "person-aplasca-started-senate-shooting-drama",
+  "name": "‘Aplasca started Senate shooting drama’",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/nation/2026/07/08/2540564/aplasca-started-senate-shooting-drama",
+      "date": "2026-07-07"
+    }
+  ],
+  "last_updated": "2026-07-07"
+}

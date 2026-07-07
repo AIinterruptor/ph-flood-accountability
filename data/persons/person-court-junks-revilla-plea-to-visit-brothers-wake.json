@@ -1,0 +1,27 @@
+{
+  "id": "person-court-junks-revilla-plea-to-visit-brothers-wake",
+  "name": "Court junks Revilla plea to visit brother’s wake",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/nation/2026/07/08/2540568/court-junks-revilla-plea-visit-brothers-wake",
+      "date": "2026-07-07"
+    }
+  ],
+  "last_updated": "2026-07-07"
+}
