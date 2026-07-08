@@ -1,0 +1,27 @@
+{
+  "id": "person-dpwh-in-nueva-ecija-readies-for-typhoon",
+  "name": "DPWH in Nueva Ecija readies for typhoon",
+  "position": "",
+  "agency": "DPWH",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2260191/dpwh-in-nueva-ecija-readies-for-typhoon",
+      "date": "2026-07-08"
+    }
+  ],
+  "last_updated": "2026-07-08"
+}

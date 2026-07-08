@@ -1,0 +1,27 @@
+{
+  "id": "person-cos-co-accused-bid-for-court-to-inhibit-in-malversation-cas",
+  "name": "Co’s co-accused bid for court to inhibit in malversation case junked",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2260172/cos-co-accused-bid-for-court-to-inhibit-in-malversation-case-junked",
+      "date": "2026-07-08"
+    }
+  ],
+  "last_updated": "2026-07-08"
+}

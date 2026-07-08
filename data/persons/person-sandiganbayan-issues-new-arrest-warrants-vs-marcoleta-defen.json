@@ -1,0 +1,27 @@
+{
+  "id": "person-sandiganbayan-issues-new-arrest-warrants-vs-marcoleta-defen",
+  "name": "Sandiganbayan issues new arrest warrants vs Marcoleta, Defensor",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2260122/sandiganbayan-issues-new-arrest-warrants-vs-marcoleta-defensor",
+      "date": "2026-07-08"
+    }
+  ],
+  "last_updated": "2026-07-08"
+}
