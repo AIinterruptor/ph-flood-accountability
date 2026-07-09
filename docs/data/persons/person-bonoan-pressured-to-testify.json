@@ -1,0 +1,27 @@
+{
+  "id": "person-bonoan-pressured-to-testify",
+  "name": "Bonoan pressured to testify?",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/headlines/2026/07/10/2541113/bonoan-pressured-testify",
+      "date": "2026-07-09"
+    }
+  ],
+  "last_updated": "2026-07-09"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "person-6-charged-over-alleged-illegal-mining-in-surigao-del-sur-tow",
+  "name": "6 charged over alleged illegal mining in Surigao del Sur town",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2260817/6-charged-over-alleged-illegal-mining-in-surigao-del-sur-town",
+      "date": "2026-07-09"
+    }
+  ],
+  "last_updated": "2026-07-09"
+}
