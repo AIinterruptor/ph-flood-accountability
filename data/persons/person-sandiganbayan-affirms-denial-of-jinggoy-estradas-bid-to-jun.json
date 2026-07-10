@@ -1,0 +1,27 @@
+{
+  "id": "person-sandiganbayan-affirms-denial-of-jinggoy-estradas-bid-to-jun",
+  "name": "Sandiganbayan affirms denial of Jinggoy Estrada’s bid to junk graft case",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2261571/sandiganbayan-affirms-denial-of-jinggoy-estradas-bid-to-junk-graft-case",
+      "date": "2026-07-10"
+    }
+  ],
+  "last_updated": "2026-07-10"
+}
