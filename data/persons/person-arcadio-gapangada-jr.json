@@ -1,0 +1,27 @@
+{
+  "id": "person-arcadio-gapangada-jr",
+  "name": "Arcadio Gapangada Jr",
+  "position": "Mayor",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "filed",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/nation/2026/07/13/2541674/mayor-san-pablo-laguna-denies-suspension-rumor",
+      "date": "2026-07-12"
+    }
+  ],
+  "last_updated": "2026-07-12"
+}

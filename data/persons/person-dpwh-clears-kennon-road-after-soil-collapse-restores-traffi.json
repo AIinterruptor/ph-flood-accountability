@@ -1,0 +1,27 @@
+{
+  "id": "person-dpwh-clears-kennon-road-after-soil-collapse-restores-traffi",
+  "name": "DPWH clears Kennon Road after soil collapse, restores traffic in 2 hours",
+  "position": "",
+  "agency": "DPWH",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2262323/dpwh-clears-kennon-road-after-soil-collapse-restores-traffic-in-2-hours",
+      "date": "2026-07-12"
+    }
+  ],
+  "last_updated": "2026-07-12"
+}

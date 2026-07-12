@@ -1,0 +1,27 @@
+{
+  "id": "person-massive-landslide-isolates-indigenous-communities-in-bukidno",
+  "name": "Massive landslide isolates indigenous communities in Bukidnon",
+  "position": "",
+  "agency": "DPWH",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2262260/massive-landslide-isolates-indigenous-communities-in-bukidnon",
+      "date": "2026-07-12"
+    }
+  ],
+  "last_updated": "2026-07-12"
+}
