@@ -1,0 +1,27 @@
+{
+  "id": "person-father-of-student-who-died-after-school-deworming-wants-son",
+  "name": "Father of student who died after school deworming wants son’s autopsy",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2262972/father-of-student-who-died-after-school-deworming-wants-sons-autopsy",
+      "date": "2026-07-13"
+    }
+  ],
+  "last_updated": "2026-07-13"
+}

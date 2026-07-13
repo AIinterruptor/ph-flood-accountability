@@ -1,0 +1,27 @@
+{
+  "id": "person-sandiganbayan-to-pnp-bring-marcoleta-to-pgh-for-exam-then",
+  "name": "Sandiganbayan to PNP: Bring Marcoleta to PGH for exam, then to court",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2263097/sandiganbayan-to-pnp-bring-marcoleta-to-pgh-for-exam-then-to-court",
+      "date": "2026-07-13"
+    }
+  ],
+  "last_updated": "2026-07-13"
+}
