@@ -4,7 +4,7 @@
   "position": "Secretary",
   "agency": "Unknown",
   "region": "Unknown",
-  "status": "charged",
+  "status": "pending",
   "admin_track": {
     "stage": "none",
     "status": "none",
@@ -19,9 +19,9 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2254976/arraignment-of-estrada-bonoan-moved-to-july-28",
-      "date": "2026-06-30"
+      "url": "https://newsinfo.inquirer.net/2263742/estrada-opposes-bid-to-drop-bonoan-from-graft-case-to-be-state-witness",
+      "date": "2026-07-14"
     }
   ],
-  "last_updated": "2026-06-30"
+  "last_updated": "2026-07-14"
 }

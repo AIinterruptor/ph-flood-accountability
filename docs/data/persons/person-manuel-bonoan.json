@@ -2,7 +2,7 @@
   "id": "person-manuel-bonoan",
   "name": "Manuel Bonoan",
   "position": "Secretary",
-  "agency": "DPWH",
+  "agency": "Unknown",
   "region": "Unknown",
   "status": "pending",
   "admin_track": {
@@ -19,9 +19,9 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2254897/remulla-ex-dpwh-chief-bonoan-to-be-used-as-state-witness",
-      "date": "2026-06-30"
+      "url": "https://newsinfo.inquirer.net/2263742/estrada-opposes-bid-to-drop-bonoan-from-graft-case-to-be-state-witness",
+      "date": "2026-07-14"
     }
   ],
-  "last_updated": "2026-06-30"
+  "last_updated": "2026-07-14"
 }

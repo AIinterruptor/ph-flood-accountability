@@ -1,7 +1,7 @@
 {
-  "id": "person-manuel-bonoan",
-  "name": "Manuel Bonoan",
-  "position": "Secretary",
+  "id": "person-sandiganbayan-to-decide-on-bonoan-as-state-witness",
+  "name": "Sandiganbayan to decide on Bonoan as state witness",
+  "position": "",
   "agency": "Unknown",
   "region": "Unknown",
   "status": "pending",
@@ -11,7 +11,7 @@
     "case_ids": []
   },
   "criminal_track": {
-    "stage": "filed",
+    "stage": "investigation",
     "status": "pending",
     "case_ids": []
   },
@@ -19,7 +19,7 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2263742/estrada-opposes-bid-to-drop-bonoan-from-graft-case-to-be-state-witness",
+      "url": "https://www.philstar.com/headlines/2026/07/15/2542221/sandiganbayan-decide-bonoan-state-witness",
       "date": "2026-07-14"
     }
   ],

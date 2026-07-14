@@ -1,10 +1,10 @@
 {
-  "id": "person-manuel-bonoan",
-  "name": "Manuel Bonoan",
+  "id": "person-francisco-tiu-laurel-jr",
+  "name": "Francisco Tiu Laurel Jr",
   "position": "Secretary",
   "agency": "Unknown",
   "region": "Unknown",
-  "status": "pending",
+  "status": "charged",
   "admin_track": {
     "stage": "none",
     "status": "none",
@@ -19,7 +19,7 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2263742/estrada-opposes-bid-to-drop-bonoan-from-graft-case-to-be-state-witness",
+      "url": "https://www.philstar.com/headlines/2026/07/15/2542220/baligod-faces-arrest-cyberlibel-filed-da-chief",
       "date": "2026-07-14"
     }
   ],
