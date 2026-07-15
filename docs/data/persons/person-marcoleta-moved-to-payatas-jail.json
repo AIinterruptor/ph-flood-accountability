@@ -1,0 +1,27 @@
+{
+  "id": "person-marcoleta-moved-to-payatas-jail",
+  "name": "Marcoleta moved to Payatas jail",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/headlines/2026/07/16/2542463/marcoleta-moved-payatas-jail",
+      "date": "2026-07-15"
+    }
+  ],
+  "last_updated": "2026-07-15"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "person-sandigan-hears-motion-dropping-bonoan-as-accused",
+  "name": "Sandigan hears motion dropping Bonoan as accused",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/headlines/2026/07/16/2542444/sandigan-hears-motion-dropping-bonoan-accused",
+      "date": "2026-07-15"
+    }
+  ],
+  "last_updated": "2026-07-15"
+}
