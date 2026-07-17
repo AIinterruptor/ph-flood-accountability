@@ -1,0 +1,27 @@
+{
+  "id": "person-overseas-workers-welfare-administration",
+  "name": "Overseas Workers Welfare Administration",
+  "position": "Administrator",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "filed",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2265751/dmw-appeals-ex-owwa-chief-ignacios-dismissed-graft-malversation-raps",
+      "date": "2026-07-17"
+    }
+  ],
+  "last_updated": "2026-07-17"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "person-tulfo-hits-cayetano-with-boy-banat-jab-relax-flood-probe",
+  "name": "Tulfo hits Cayetano with ‘Boy Banat’ jab: Relax, flood probe coming",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2265546/tulfo-hits-cayetano-with-boy-banat-jab-relax-flood-probe-coming",
+      "date": "2026-07-17"
+    }
+  ],
+  "last_updated": "2026-07-17"
+}

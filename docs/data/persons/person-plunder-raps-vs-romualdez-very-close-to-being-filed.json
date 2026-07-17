@@ -1,0 +1,27 @@
+{
+  "id": "person-plunder-raps-vs-romualdez-very-close-to-being-filed",
+  "name": "Plunder raps vs Romualdez ‘very close’ to being filed",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/headlines/2026/07/18/2542879/plunder-raps-vs-romualdez-very-close-being-filed",
+      "date": "2026-07-17"
+    }
+  ],
+  "last_updated": "2026-07-17"
+}

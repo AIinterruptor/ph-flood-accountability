@@ -1,0 +1,27 @@
+{
+  "id": "person-missing-sabungeros-kin-deny-bribes-from-atong-ang-camp",
+  "name": "Missing sabungeros’ kin deny bribes from Atong Ang camp",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2265705/missing-sabungeros-kin-deny-bribes-from-atong-ang-camp",
+      "date": "2026-07-17"
+    }
+  ],
+  "last_updated": "2026-07-17"
+}

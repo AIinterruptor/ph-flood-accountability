@@ -1,0 +1,27 @@
+{
+  "id": "person-matibag-nbi-to-subpoena-phisgoc-2019-officials-over-sea-gam",
+  "name": "Matibag: NBI to subpoena Phisgoc 2019 officials over SEA Games probe",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2265552/matibag-nbi-to-subpoena-phisgoc-2019-officials-over-sea-games-probe",
+      "date": "2026-07-17"
+    }
+  ],
+  "last_updated": "2026-07-17"
+}
