@@ -1,0 +1,27 @@
+{
+  "id": "person-word-war-erupts-among-senators",
+  "name": "Word war erupts among senators",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/headlines/2026/07/19/2543087/word-war-erupts-among-senators",
+      "date": "2026-07-18"
+    }
+  ],
+  "last_updated": "2026-07-18"
+}

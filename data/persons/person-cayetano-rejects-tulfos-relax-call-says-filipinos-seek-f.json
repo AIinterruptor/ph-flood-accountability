@@ -1,0 +1,27 @@
+{
+  "id": "person-cayetano-rejects-tulfos-relax-call-says-filipinos-seek-f",
+  "name": "Cayetano rejects Tulfo’s ‘relax’ call, says Filipinos seek flood probe",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2265858/cayetano-rejects-tulfos-relax-call-says-filipinos-seek-flood-probe",
+      "date": "2026-07-18"
+    }
+  ],
+  "last_updated": "2026-07-18"
+}

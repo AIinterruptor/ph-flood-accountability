@@ -1,0 +1,27 @@
+{
+  "id": "person-ombudsman-robin-ignored-summons-in-bato-escape-probe",
+  "name": "Ombudsman: Robin ‘ignored’ summons in Bato ‘escape’ probe",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2265765/ombudsman-robin-ignored-summons-in-bato-escape-probe",
+      "date": "2026-07-18"
+    }
+  ],
+  "last_updated": "2026-07-18"
+}

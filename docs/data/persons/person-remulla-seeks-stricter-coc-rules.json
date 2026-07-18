@@ -1,0 +1,27 @@
+{
+  "id": "person-remulla-seeks-stricter-coc-rules",
+  "name": "Remulla seeks stricter COC rules",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/headlines/2026/07/19/2543081/remulla-seeks-stricter-coc-rules",
+      "date": "2026-07-18"
+    }
+  ],
+  "last_updated": "2026-07-18"
+}
