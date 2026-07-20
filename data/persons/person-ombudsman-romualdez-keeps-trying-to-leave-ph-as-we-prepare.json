@@ -1,0 +1,27 @@
+{
+  "id": "person-ombudsman-romualdez-keeps-trying-to-leave-ph-as-we-prepare",
+  "name": "Ombudsman: Romualdez keeps trying to leave PH as we prepare plunder rap",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2266899/ombudsman-romualdez-keeps-trying-to-leave-ph-as-we-prepare-plunder-rap",
+      "date": "2026-07-20"
+    }
+  ],
+  "last_updated": "2026-07-20"
+}

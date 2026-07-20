@@ -1,7 +1,7 @@
 {
-  "id": "person-vince-dizon",
-  "name": "Vince Dizon",
-  "position": "Secretary",
+  "id": "person-river-dredging-eases-flooding-in-maguindanao-del-sur-towns",
+  "name": "River dredging eases flooding in Maguindanao del Sur towns",
+  "position": "",
   "agency": "DPWH",
   "region": "Unknown",
   "status": "pending",
@@ -11,7 +11,7 @@
     "case_ids": []
   },
   "criminal_track": {
-    "stage": "filed",
+    "stage": "investigation",
     "status": "pending",
     "case_ids": []
   },
@@ -19,7 +19,7 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2266937/cayetano-tells-dizon-to-resist-pressure-in-taguig-project-probe",
+      "url": "https://newsinfo.inquirer.net/2266868/river-dredging-eases-flooding-in-maguindanao-del-sur-towns",
       "date": "2026-07-20"
     }
   ],

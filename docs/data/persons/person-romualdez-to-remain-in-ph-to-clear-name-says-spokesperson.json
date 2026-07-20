@@ -1,8 +1,8 @@
 {
-  "id": "person-vince-dizon",
-  "name": "Vince Dizon",
-  "position": "Secretary",
-  "agency": "DPWH",
+  "id": "person-romualdez-to-remain-in-ph-to-clear-name-says-spokesperson",
+  "name": "Romualdez to remain in PH to clear name, says spokesperson",
+  "position": "",
+  "agency": "Unknown",
   "region": "Unknown",
   "status": "pending",
   "admin_track": {
@@ -11,7 +11,7 @@
     "case_ids": []
   },
   "criminal_track": {
-    "stage": "filed",
+    "stage": "investigation",
     "status": "pending",
     "case_ids": []
   },
@@ -19,7 +19,7 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2266937/cayetano-tells-dizon-to-resist-pressure-in-taguig-project-probe",
+      "url": "https://newsinfo.inquirer.net/2266993/romualdez-to-remain-in-ph-to-clear-name-says-spokesperson",
       "date": "2026-07-20"
     }
   ],

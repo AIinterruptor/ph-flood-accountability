@@ -1,7 +1,7 @@
 {
-  "id": "person-vince-dizon",
-  "name": "Vince Dizon",
-  "position": "Secretary",
+  "id": "person-maan-teodoro",
+  "name": "Maan Teodoro",
+  "position": "Mayor",
   "agency": "DPWH",
   "region": "Unknown",
   "status": "pending",
@@ -19,7 +19,7 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2266937/cayetano-tells-dizon-to-resist-pressure-in-taguig-project-probe",
+      "url": "https://newsinfo.inquirer.net/2266804/marikina-urges-dpwh-denr-to-protect-trees-in-bridge-project",
       "date": "2026-07-20"
     }
   ],

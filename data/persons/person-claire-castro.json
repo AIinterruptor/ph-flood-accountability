@@ -2,7 +2,7 @@
   "id": "person-claire-castro",
   "name": "Claire Castro",
   "position": "",
-  "agency": "Unknown",
+  "agency": "DPWH",
   "region": "Unknown",
   "status": "pending",
   "admin_track": {
@@ -19,9 +19,14 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2255497/palace-on-marcos-reaction-to-inc-rally",
-      "date": "2026-06-30"
+      "url": "https://newsinfo.inquirer.net/2267058/dpwh-to-begin-rehab-of-key-naga-city-road-this-july",
+      "date": "2026-07-20"
+    },
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2266921/castro-hits-cayetano-minion-word-not-biblical-account-for-sea-games-funds",
+      "date": "2026-07-20"
     }
   ],
-  "last_updated": "2026-06-30"
+  "last_updated": "2026-07-20"
 }

@@ -1,0 +1,27 @@
+{
+  "id": "person-ombudsman-no-record-yet-of-padillas-reply-in-bato-escape-r",
+  "name": "Ombudsman: No record yet of Padilla’s reply in Bato escape raps",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2266844/ombudsman-no-record-yet-of-padillas-reply-in-bato-escape-raps",
+      "date": "2026-07-20"
+    }
+  ],
+  "last_updated": "2026-07-20"
+}

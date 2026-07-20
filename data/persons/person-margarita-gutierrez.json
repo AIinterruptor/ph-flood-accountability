@@ -1,8 +1,8 @@
 {
-  "id": "person-vince-dizon",
-  "name": "Vince Dizon",
+  "id": "person-margarita-gutierrez",
+  "name": "Margarita Gutierrez",
   "position": "Secretary",
-  "agency": "DPWH",
+  "agency": "Unknown",
   "region": "Unknown",
   "status": "pending",
   "admin_track": {
@@ -19,7 +19,7 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2266937/cayetano-tells-dizon-to-resist-pressure-in-taguig-project-probe",
+      "url": "https://newsinfo.inquirer.net/2266991/reject-broken-systems-doj-exec-to-future-lawyers-public-servants",
       "date": "2026-07-20"
     }
   ],

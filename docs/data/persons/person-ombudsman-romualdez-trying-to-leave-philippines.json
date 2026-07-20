@@ -1,8 +1,8 @@
 {
-  "id": "person-vince-dizon",
-  "name": "Vince Dizon",
-  "position": "Secretary",
-  "agency": "DPWH",
+  "id": "person-ombudsman-romualdez-trying-to-leave-philippines",
+  "name": "Ombudsman: Romualdez trying to leave Philippines",
+  "position": "",
+  "agency": "Unknown",
   "region": "Unknown",
   "status": "pending",
   "admin_track": {
@@ -11,7 +11,7 @@
     "case_ids": []
   },
   "criminal_track": {
-    "stage": "filed",
+    "stage": "investigation",
     "status": "pending",
     "case_ids": []
   },
@@ -19,7 +19,7 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2266937/cayetano-tells-dizon-to-resist-pressure-in-taguig-project-probe",
+      "url": "https://www.philstar.com/headlines/2026/07/21/2543527/ombudsman-romualdez-trying-leave-philippines",
       "date": "2026-07-20"
     }
   ],
