@@ -1,10 +1,10 @@
 {
-  "id": "person-house-speaker-martin-romualdez",
-  "name": "House Speaker Martin Romualdez",
-  "position": "",
+  "id": "person-sonny-angara",
+  "name": "Sonny Angara",
+  "position": "Secretary",
   "agency": "Unknown",
   "region": "Unknown",
-  "status": "charged",
+  "status": "pending",
   "admin_track": {
     "stage": "none",
     "status": "none",
@@ -19,7 +19,7 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2270055/ombudsman-alleges-romualdezs-kickbacks-funneled-in-corporate-entities",
+      "url": "https://newsinfo.inquirer.net/2270079/deped-earns-clean-audit-opinion-under-angara-reform-initiative",
       "date": "2026-07-24"
     }
   ],

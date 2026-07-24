@@ -1,17 +1,17 @@
 {
-  "id": "person-house-speaker-martin-romualdez",
-  "name": "House Speaker Martin Romualdez",
+  "id": "person-sandigan-to-marcoleta-explain-why-you-shouldnt-be-suspende",
+  "name": "Sandigan to Marcoleta: Explain why you shouldn’t be suspended",
   "position": "",
   "agency": "Unknown",
   "region": "Unknown",
-  "status": "charged",
+  "status": "pending",
   "admin_track": {
     "stage": "none",
     "status": "none",
     "case_ids": []
   },
   "criminal_track": {
-    "stage": "filed",
+    "stage": "investigation",
     "status": "pending",
     "case_ids": []
   },
@@ -19,7 +19,7 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2270055/ombudsman-alleges-romualdezs-kickbacks-funneled-in-corporate-entities",
+      "url": "https://www.philstar.com/headlines/2026/07/25/2544521/sandigan-marcoleta-explain-why-you-shouldnt-be-suspended",
       "date": "2026-07-24"
     }
   ],

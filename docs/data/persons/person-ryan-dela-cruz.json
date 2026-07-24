@@ -1,10 +1,10 @@
 {
-  "id": "person-house-speaker-martin-romualdez",
-  "name": "House Speaker Martin Romualdez",
-  "position": "",
-  "agency": "Unknown",
+  "id": "person-ryan-dela-cruz",
+  "name": "Ryan Dela Cruz",
+  "position": "Engineer",
+  "agency": "DPWH",
   "region": "Unknown",
-  "status": "charged",
+  "status": "pending",
   "admin_track": {
     "stage": "none",
     "status": "none",
@@ -19,7 +19,7 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2270055/ombudsman-alleges-romualdezs-kickbacks-funneled-in-corporate-entities",
+      "url": "https://newsinfo.inquirer.net/2270056/dpwh-warns-vs-unauthorized-individuals-deceiving-public-contractors",
       "date": "2026-07-24"
     }
   ],

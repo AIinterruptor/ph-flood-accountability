@@ -2,9 +2,9 @@
   "id": "person-house-speaker-martin-romualdez",
   "name": "House Speaker Martin Romualdez",
   "position": "",
-  "agency": "DPWH",
+  "agency": "Unknown",
   "region": "Unknown",
-  "status": "pending",
+  "status": "charged",
   "admin_track": {
     "stage": "none",
     "status": "none",
@@ -19,9 +19,9 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2255430/ombudsman-bonoans-state-witness-bid-made-to-pin-down-romualdez",
-      "date": "2026-06-30"
+      "url": "https://newsinfo.inquirer.net/2270055/ombudsman-alleges-romualdezs-kickbacks-funneled-in-corporate-entities",
+      "date": "2026-07-24"
     }
   ],
-  "last_updated": "2026-06-30"
+  "last_updated": "2026-07-24"
 }
