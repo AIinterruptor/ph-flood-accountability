@@ -1,0 +1,27 @@
+{
+  "id": "person-filipinos-want-marcos-sona-to-focus-on-anti-corruption-driv",
+  "name": "Filipinos want Marcos’ Sona to focus on anti-corruption drive – survey",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2270747/filipinos-want-marcos-sona-to-focus-on-anti-corruption-drive-survey",
+      "date": "2026-07-26"
+    }
+  ],
+  "last_updated": "2026-07-26"
+}

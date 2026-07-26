@@ -1,0 +1,27 @@
+{
+  "id": "person-lacson-spots-same-photo-for-2-billed-taguig-infra-projects",
+  "name": "Lacson spots same photo for 2 billed Taguig infra projects",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2270652/lacson-spots-same-photo-for-2-billed-taguig-infra-projects",
+      "date": "2026-07-26"
+    }
+  ],
+  "last_updated": "2026-07-26"
+}

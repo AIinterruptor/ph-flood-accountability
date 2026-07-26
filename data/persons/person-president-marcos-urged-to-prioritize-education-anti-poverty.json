@@ -1,0 +1,27 @@
+{
+  "id": "person-president-marcos-urged-to-prioritize-education-anti-poverty",
+  "name": "President Marcos urged to prioritize education, anti-poverty bills",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/headlines/2026/07/27/2545021/president-marcos-urged-prioritize-education-anti-poverty-bills",
+      "date": "2026-07-26"
+    }
+  ],
+  "last_updated": "2026-07-26"
+}

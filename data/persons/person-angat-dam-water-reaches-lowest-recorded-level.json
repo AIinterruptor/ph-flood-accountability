@@ -1,0 +1,27 @@
+{
+  "id": "person-angat-dam-water-reaches-lowest-recorded-level",
+  "name": "Angat Dam water reaches lowest recorded level",
+  "position": "",
+  "agency": "MWSS",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/nation/2026/07/27/2544992/angat-dam-water-reaches-lowest-recorded-level",
+      "date": "2026-07-26"
+    }
+  ],
+  "last_updated": "2026-07-26"
+}

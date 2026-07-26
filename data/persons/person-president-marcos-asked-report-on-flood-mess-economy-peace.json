@@ -1,0 +1,27 @@
+{
+  "id": "person-president-marcos-asked-report-on-flood-mess-economy-peace",
+  "name": "President Marcos asked: Report on flood mess, economy, peace process",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/headlines/2026/07/27/2545016/president-marcos-asked-report-flood-mess-economy-peace-process",
+      "date": "2026-07-26"
+    }
+  ],
+  "last_updated": "2026-07-26"
+}
