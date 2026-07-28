@@ -1,7 +1,7 @@
 {
-  "id": "person-melvin-matibag",
-  "name": "Melvin Matibag",
-  "position": "Director",
+  "id": "person-inqtoday-romualdez-ordered-to-answer-raps-in-ombudsman",
+  "name": "INQToday: Romualdez ordered to answer raps in Ombudsman",
+  "position": "",
   "agency": "Unknown",
   "region": "Unknown",
   "status": "pending",
@@ -11,7 +11,7 @@
     "case_ids": []
   },
   "criminal_track": {
-    "stage": "filed",
+    "stage": "investigation",
     "status": "pending",
     "case_ids": []
   },
@@ -19,7 +19,7 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2272841/nbi-steel-from-raided-pampanga-plant-may-have-gone-to-flood-projects",
+      "url": "https://newsinfo.inquirer.net/2272933/inqtoday-romualdez-ordered-to-answer-raps-in-ombudsman",
       "date": "2026-07-28"
     }
   ],

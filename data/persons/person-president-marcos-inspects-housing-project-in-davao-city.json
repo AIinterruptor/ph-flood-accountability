@@ -1,8 +1,8 @@
 {
-  "id": "person-melvin-matibag",
-  "name": "Melvin Matibag",
-  "position": "Director",
-  "agency": "Unknown",
+  "id": "person-president-marcos-inspects-housing-project-in-davao-city",
+  "name": "President Marcos inspects housing project in Davao City",
+  "position": "",
+  "agency": "DPWH",
   "region": "Unknown",
   "status": "pending",
   "admin_track": {
@@ -11,7 +11,7 @@
     "case_ids": []
   },
   "criminal_track": {
-    "stage": "filed",
+    "stage": "investigation",
     "status": "pending",
     "case_ids": []
   },
@@ -19,7 +19,7 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2272841/nbi-steel-from-raided-pampanga-plant-may-have-gone-to-flood-projects",
+      "url": "https://newsinfo.inquirer.net/2272900/president-marcos-inspects-housing-project-in-davao-city",
       "date": "2026-07-28"
     }
   ],
