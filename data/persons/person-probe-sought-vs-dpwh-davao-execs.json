@@ -1,0 +1,27 @@
+{
+  "id": "person-probe-sought-vs-dpwh-davao-execs",
+  "name": "Probe sought vs DPWH-Davao execs",
+  "position": "",
+  "agency": "DPWH",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/nation/2026/07/30/2545695/probe-sought-vs-dpwh-davao-execs",
+      "date": "2026-07-29"
+    }
+  ],
+  "last_updated": "2026-07-29"
+}

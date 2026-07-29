@@ -1,0 +1,27 @@
+{
+  "id": "person-gatchalian-no-formal-request-from-marcoleta-estrada-to-joi",
+  "name": "Gatchalian: No formal request from Marcoleta, Estrada to join VP trial",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2273868/gatchalian-no-formal-request-from-marcoleta-estrada-to-join-vp-trial",
+      "date": "2026-07-29"
+    }
+  ],
+  "last_updated": "2026-07-29"
+}
