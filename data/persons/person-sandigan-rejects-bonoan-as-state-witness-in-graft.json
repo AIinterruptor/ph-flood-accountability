@@ -1,0 +1,27 @@
+{
+  "id": "person-sandigan-rejects-bonoan-as-state-witness-in-graft",
+  "name": "Sandigan rejects Bonoan as state witness in graft",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/headlines/2026/08/04/2546802/sandigan-rejects-bonoan-state-witness-graft",
+      "date": "2026-08-03"
+    }
+  ],
+  "last_updated": "2026-08-03"
+}

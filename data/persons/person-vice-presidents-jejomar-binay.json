@@ -1,0 +1,27 @@
+{
+  "id": "person-vice-presidents-jejomar-binay",
+  "name": "Vice Presidents Jejomar Binay",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "filed",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2276639/highlights-day-11-of-sara-duterte-impeachment-trial-aug-3-2026",
+      "date": "2026-08-03"
+    }
+  ],
+  "last_updated": "2026-08-03"
+}

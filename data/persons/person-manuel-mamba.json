@@ -1,0 +1,27 @@
+{
+  "id": "person-manuel-mamba",
+  "name": "Manuel Mamba",
+  "position": "Governor",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "suspended",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "filed",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2276670/cagayan-vice-governor-ordered-suspended-for-90-days-due-to-graft-case",
+      "date": "2026-08-03"
+    }
+  ],
+  "last_updated": "2026-08-03"
+}
