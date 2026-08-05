@@ -1,0 +1,27 @@
+{
+  "id": "person-cagayan-vice-governor-suspended-for-90-days",
+  "name": "Cagayan vice governor  suspended for 90 days",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/nation/2026/08/06/2547254/cagayan-vice-governor-suspended-90-days",
+      "date": "2026-08-05"
+    }
+  ],
+  "last_updated": "2026-08-05"
+}

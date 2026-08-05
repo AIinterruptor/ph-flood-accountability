@@ -1,0 +1,27 @@
+{
+  "id": "person-jose-pujalte-jr",
+  "name": "Jose Pujalte Jr",
+  "position": "Secretary",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "filed",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2278412/ombudsman-urged-to-file-graft-raps-vs-new-doh-chief",
+      "date": "2026-08-05"
+    }
+  ],
+  "last_updated": "2026-08-05"
+}
