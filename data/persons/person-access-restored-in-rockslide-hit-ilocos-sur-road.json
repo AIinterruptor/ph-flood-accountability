@@ -1,8 +1,8 @@
 {
-  "id": "person-house-speaker-martin-romualdez",
-  "name": "House Speaker Martin Romualdez",
+  "id": "person-access-restored-in-rockslide-hit-ilocos-sur-road",
+  "name": "Access restored in rockslide-hit Ilocos Sur road",
   "position": "",
-  "agency": "Unknown",
+  "agency": "DPWH",
   "region": "Unknown",
   "status": "pending",
   "admin_track": {
@@ -11,7 +11,7 @@
     "case_ids": []
   },
   "criminal_track": {
-    "stage": "filed",
+    "stage": "investigation",
     "status": "pending",
     "case_ids": []
   },
@@ -19,7 +19,7 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2279877/one-of-18-maleta-boys-says-p20m-to-p25m-offered-to-recant-statement",
+      "url": "https://newsinfo.inquirer.net/2279740/access-restored-in-rockslide-hit-ilocos-sur-road",
       "date": "2026-08-07"
     }
   ],

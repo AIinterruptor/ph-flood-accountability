@@ -1,6 +1,6 @@
 {
-  "id": "person-house-speaker-martin-romualdez",
-  "name": "House Speaker Martin Romualdez",
+  "id": "person-tarlac-rep-noel-rivera-faces-9-counts-of-graft-in-sandiganb",
+  "name": "Tarlac Rep. Noel Rivera faces 9 counts of graft in Sandiganbayan",
   "position": "",
   "agency": "Unknown",
   "region": "Unknown",
@@ -11,7 +11,7 @@
     "case_ids": []
   },
   "criminal_track": {
-    "stage": "filed",
+    "stage": "investigation",
     "status": "pending",
     "case_ids": []
   },
@@ -19,7 +19,7 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2279877/one-of-18-maleta-boys-says-p20m-to-p25m-offered-to-recant-statement",
+      "url": "https://newsinfo.inquirer.net/2279988/tarlac-rep-noel-rivera-faces-9-counts-of-graft-in-sandiganbayan",
       "date": "2026-08-07"
     }
   ],
