@@ -1,0 +1,27 @@
+{
+  "id": "person-auditor-ovp-says-cf-used-to-secure-duterte-but-docs-inadeq",
+  "name": "Auditor: OVP says CF used to secure Duterte, but docs inadequate",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2282612/auditor-ovp-says-cf-used-to-secure-duterte-but-docs-inadequate",
+      "date": "2026-08-11"
+    }
+  ],
+  "last_updated": "2026-08-11"
+}

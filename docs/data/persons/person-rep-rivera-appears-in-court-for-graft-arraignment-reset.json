@@ -1,0 +1,27 @@
+{
+  "id": "person-rep-rivera-appears-in-court-for-graft-arraignment-reset",
+  "name": "Rep. Rivera appears in court for graft; arraignment reset",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2282758/rep-rivera-appears-in-court-for-graft-arraignment-reset",
+      "date": "2026-08-11"
+    }
+  ],
+  "last_updated": "2026-08-11"
+}

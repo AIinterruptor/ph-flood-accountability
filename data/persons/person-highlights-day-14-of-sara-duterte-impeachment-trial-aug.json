@@ -1,0 +1,27 @@
+{
+  "id": "person-highlights-day-14-of-sara-duterte-impeachment-trial-aug",
+  "name": "Highlights: Day 14 of Sara Duterte impeachment trial | Aug. 11, 2026",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2282738/highlights-day-14-of-sara-duterte-impeachment-trial-aug-11-2026",
+      "date": "2026-08-11"
+    }
+  ],
+  "last_updated": "2026-08-11"
+}
