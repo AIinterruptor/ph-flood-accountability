@@ -1,0 +1,27 @@
+{
+  "id": "person-inqtoday-marcos-eyes-2028-bet-to-sustain-anti-corruption-dr",
+  "name": "INQToday: Marcos eyes 2028 bet to sustain anti-corruption drive",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2284694/inqtoday-marcos-eyes-2028-bet-to-sustain-anti-corruption-drive",
+      "date": "2026-08-14"
+    }
+  ],
+  "last_updated": "2026-08-14"
+}

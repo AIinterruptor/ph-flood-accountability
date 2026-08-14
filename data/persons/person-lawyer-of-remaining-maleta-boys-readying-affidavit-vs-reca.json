@@ -1,0 +1,27 @@
+{
+  "id": "person-lawyer-of-remaining-maleta-boys-readying-affidavit-vs-reca",
+  "name": "Lawyer of remaining ‘maleta boys’ readying affidavit vs recanters",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2284867/lawyer-of-remaining-maleta-boys-readying-affidavit-vs-recanters",
+      "date": "2026-08-14"
+    }
+  ],
+  "last_updated": "2026-08-14"
+}

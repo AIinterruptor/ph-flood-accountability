@@ -1,0 +1,27 @@
+{
+  "id": "person-jed-patrick-mabilog",
+  "name": "Jed Patrick Mabilog",
+  "position": "Secretary",
+  "agency": "DILG",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "filed",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2284852/sandiganbayan-junks-graft-case-vs-dilg-usec-mabilog",
+      "date": "2026-08-14"
+    }
+  ],
+  "last_updated": "2026-08-14"
+}

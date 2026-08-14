@@ -1,0 +1,27 @@
+{
+  "id": "person-bonoan-marcos-alarmed-as-p527-b-turned-into-8075-inserted",
+  "name": "Bonoan: Marcos alarmed as P52.7-B turned into 8,075 inserted projects",
+  "position": "",
+  "agency": "DPWH",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2284675/bonoan-marcos-alarmed-as-p52-7-b-turned-into-8075-inserted-projects",
+      "date": "2026-08-14"
+    }
+  ],
+  "last_updated": "2026-08-14"
+}
