@@ -1,10 +1,10 @@
 {
-  "id": "person-vince-dizon",
-  "name": "Vince Dizon",
+  "id": "person-iloilo-city",
+  "name": "Iloilo City",
   "position": "Secretary",
-  "agency": "DPWH",
+  "agency": "Unknown",
   "region": "Unknown",
-  "status": "pending",
+  "status": "charged",
   "admin_track": {
     "stage": "none",
     "status": "none",
@@ -19,7 +19,7 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2285035/lacson-says-dpwh-to-issue-halt-orders-on-projects-involved-in-taguig-reclamation",
+      "url": "https://www.philstar.com/nation/2026/08/16/2549618/mabilog-graft-case-junked-due-inordinate-delay",
       "date": "2026-08-15"
     }
   ],
