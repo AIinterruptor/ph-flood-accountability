@@ -1,7 +1,7 @@
 {
-  "id": "person-manuel-bonoan",
-  "name": "Manuel Bonoan",
-  "position": "Secretary",
+  "id": "person-dpwh-rushes-valenzuela-road-repairs",
+  "name": "DPWH rushes Valenzuela road repairs",
+  "position": "",
   "agency": "DPWH",
   "region": "Unknown",
   "status": "pending",
@@ -11,7 +11,7 @@
     "case_ids": []
   },
   "criminal_track": {
-    "stage": "filed",
+    "stage": "investigation",
     "status": "pending",
     "case_ids": []
   },
@@ -19,7 +19,7 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2285599/abante-says-senators-should-explain-p24-billion-leadership-fund",
+      "url": "https://www.philstar.com/nation/2026/08/17/2549728/dpwh-rushes-valenzuela-road-repairs",
       "date": "2026-08-16"
     }
   ],
