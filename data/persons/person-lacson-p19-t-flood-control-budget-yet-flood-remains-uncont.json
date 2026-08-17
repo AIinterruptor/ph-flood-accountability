@@ -1,0 +1,27 @@
+{
+  "id": "person-lacson-p19-t-flood-control-budget-yet-flood-remains-uncont",
+  "name": "Lacson: P1.9-T flood control budget yet flood remains uncontrolled",
+  "position": "",
+  "agency": "DPWH",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2286712/lacson-p1-9-t-flood-control-budget-yet-flood-remains-uncontrolled",
+      "date": "2026-08-17"
+    }
+  ],
+  "last_updated": "2026-08-17"
+}
