@@ -19,9 +19,14 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2285035/lacson-says-dpwh-to-issue-halt-orders-on-projects-involved-in-taguig-reclamation",
-      "date": "2026-08-15"
+      "url": "https://www.philstar.com/headlines/2026/08/20/2550507/dpwh-wants-localized-flood-control-master-plans",
+      "date": "2026-08-19"
+    },
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/nation/2026/08/20/2550485/dizon-backs-drive-vs-illegal-dumping-but",
+      "date": "2026-08-19"
     }
   ],
-  "last_updated": "2026-08-15"
+  "last_updated": "2026-08-19"
 }

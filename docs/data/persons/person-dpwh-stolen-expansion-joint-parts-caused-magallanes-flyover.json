@@ -1,0 +1,27 @@
+{
+  "id": "person-dpwh-stolen-expansion-joint-parts-caused-magallanes-flyover",
+  "name": "DPWH: Stolen expansion joint parts caused Magallanes Flyover debris",
+  "position": "",
+  "agency": "DPWH",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2288463/dpwh-says-falling-debris-along-magallanes-flyover-due-to-stolen-components",
+      "date": "2026-08-19"
+    }
+  ],
+  "last_updated": "2026-08-19"
+}

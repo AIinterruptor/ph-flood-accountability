@@ -1,0 +1,27 @@
+{
+  "id": "person-ombudsman-verifies-lacson-evidence-in-taguig-infra-probe",
+  "name": "Ombudsman verifies Lacson evidence in Taguig infra probe",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2288330/ombudsman-verifies-lacson-evidence-in-taguig-infra-probe",
+      "date": "2026-08-19"
+    }
+  ],
+  "last_updated": "2026-08-19"
+}
