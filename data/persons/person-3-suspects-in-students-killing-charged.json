@@ -1,17 +1,17 @@
 {
-  "id": "person-house-speaker-martin-romualdez",
-  "name": "House Speaker Martin Romualdez",
+  "id": "person-3-suspects-in-students-killing-charged",
+  "name": "3 suspects in student’s killing charged ‘",
   "position": "",
   "agency": "Unknown",
   "region": "Unknown",
-  "status": "charged",
+  "status": "pending",
   "admin_track": {
     "stage": "none",
     "status": "none",
     "case_ids": []
   },
   "criminal_track": {
-    "stage": "filed",
+    "stage": "investigation",
     "status": "pending",
     "case_ids": []
   },
@@ -19,7 +19,7 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2289146/romualdez-counters-plunder-raps-anew-includes-guteza-in-defense",
+      "url": "https://www.philstar.com/nation/2026/08/21/2550682/3-suspects-students-killing-charged-",
       "date": "2026-08-20"
     }
   ],

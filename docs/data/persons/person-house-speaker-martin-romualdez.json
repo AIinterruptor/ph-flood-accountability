@@ -4,7 +4,7 @@
   "position": "",
   "agency": "Unknown",
   "region": "Unknown",
-  "status": "pending",
+  "status": "charged",
   "admin_track": {
     "stage": "none",
     "status": "none",
@@ -19,9 +19,9 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2279877/one-of-18-maleta-boys-says-p20m-to-p25m-offered-to-recant-statement",
-      "date": "2026-08-07"
+      "url": "https://newsinfo.inquirer.net/2289146/romualdez-counters-plunder-raps-anew-includes-guteza-in-defense",
+      "date": "2026-08-20"
     }
   ],
-  "last_updated": "2026-08-07"
+  "last_updated": "2026-08-20"
 }

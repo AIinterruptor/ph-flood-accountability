@@ -1,0 +1,27 @@
+{
+  "id": "person-anti-corruption-watchdog-opposes-construction-of-kalinga-hyd",
+  "name": "Anti-corruption watchdog opposes construction of Kalinga hydropower plant",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/nation/2026/08/21/2550677/anti-corruption-watchdog-opposes-construction-kalinga-hydropower-plant",
+      "date": "2026-08-20"
+    }
+  ],
+  "last_updated": "2026-08-20"
+}
