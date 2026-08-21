@@ -1,8 +1,8 @@
 {
-  "id": "person-vince-dizon",
-  "name": "Vince Dizon",
-  "position": "Secretary",
-  "agency": "DPWH",
+  "id": "person-romualdez-to-ombudsman-junk-complaints",
+  "name": "Romualdez to ombudsman: Junk complaints",
+  "position": "",
+  "agency": "Unknown",
   "region": "Unknown",
   "status": "pending",
   "admin_track": {
@@ -11,7 +11,7 @@
     "case_ids": []
   },
   "criminal_track": {
-    "stage": "filed",
+    "stage": "investigation",
     "status": "pending",
     "case_ids": []
   },
@@ -19,7 +19,7 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2289648/dpwh-chief-visits-landslide-hit-area-in-baguio-inspects-other-infra",
+      "url": "https://www.philstar.com/headlines/2026/08/22/2550939/romualdez-ombudsman-junk-complaints",
       "date": "2026-08-21"
     }
   ],

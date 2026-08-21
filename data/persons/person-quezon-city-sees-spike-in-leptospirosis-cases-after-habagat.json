@@ -1,0 +1,27 @@
+{
+  "id": "person-quezon-city-sees-spike-in-leptospirosis-cases-after-habagat",
+  "name": "Quezon City sees spike in leptospirosis cases after habagat rains",
+  "position": "",
+  "agency": "NHA",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2289600/quezon-city-sees-spike-in-leptospirosis-cases-after-habagat-rains",
+      "date": "2026-08-21"
+    }
+  ],
+  "last_updated": "2026-08-21"
+}
