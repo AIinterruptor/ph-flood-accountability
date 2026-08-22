@@ -1,8 +1,8 @@
 {
-  "id": "person-vince-dizon",
-  "name": "Vince Dizon",
-  "position": "Secretary",
-  "agency": "DPWH",
+  "id": "person-senate-to-scrutinize-p107-billion-flood-control-budget",
+  "name": "Senate to scrutinize P107 billion flood control budget",
+  "position": "",
+  "agency": "Unknown",
   "region": "Unknown",
   "status": "pending",
   "admin_track": {
@@ -11,7 +11,7 @@
     "case_ids": []
   },
   "criminal_track": {
-    "stage": "filed",
+    "stage": "investigation",
     "status": "pending",
     "case_ids": []
   },
@@ -19,7 +19,7 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2289850/dpwh-eyes-modern-technology-to-curb-cordillera-landslides",
+      "url": "https://www.philstar.com/headlines/2026/08/23/2551203/senate-scrutinize-p107-billion-flood-control-budget",
       "date": "2026-08-22"
     }
   ],

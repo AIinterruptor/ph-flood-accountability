@@ -1,0 +1,27 @@
+{
+  "id": "person-marcoleta-defensor-may-be-charged-with-subornation-of-perju",
+  "name": "Marcoleta, Defensor may be charged with subornation of perjury",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/headlines/2026/08/23/2551186/marcoleta-defensor-may-be-charged-subornation-perjury",
+      "date": "2026-08-22"
+    }
+  ],
+  "last_updated": "2026-08-22"
+}
