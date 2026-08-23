@@ -2,7 +2,7 @@
   "id": "person-vince-dizon",
   "name": "Vince Dizon",
   "position": "Secretary",
-  "agency": "DPWH",
+  "agency": "Unknown",
   "region": "Unknown",
   "status": "pending",
   "admin_track": {
@@ -19,9 +19,9 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2289850/dpwh-eyes-modern-technology-to-curb-cordillera-landslides",
-      "date": "2026-08-22"
+      "url": "https://newsinfo.inquirer.net/2290408/abalos-seeks-jail-time-for-those-behind-substandard-bulacan-projects",
+      "date": "2026-08-23"
     }
   ],
-  "last_updated": "2026-08-22"
+  "last_updated": "2026-08-23"
 }
