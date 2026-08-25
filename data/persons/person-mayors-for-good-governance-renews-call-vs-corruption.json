@@ -1,0 +1,27 @@
+{
+  "id": "person-mayors-for-good-governance-renews-call-vs-corruption",
+  "name": "Mayors for Good Governance renews call vs corruption",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2292407/mayors-for-good-governance-renews-call-vs-corruption",
+      "date": "2026-08-25"
+    }
+  ],
+  "last_updated": "2026-08-25"
+}

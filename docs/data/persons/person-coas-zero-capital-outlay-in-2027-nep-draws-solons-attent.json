@@ -1,0 +1,27 @@
+{
+  "id": "person-coas-zero-capital-outlay-in-2027-nep-draws-solons-attent",
+  "name": "COA’s ‘zero capital outlay’ in 2027 NEP draws solons’ attention",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2292424/zero-capital-outlay-for-coa-in-2027-nep-draws-solons-attention",
+      "date": "2026-08-25"
+    }
+  ],
+  "last_updated": "2026-08-25"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "person-sandigan-justice-who-approved-revilla-bail-asked-to-inhibit",
+  "name": "Sandigan justice who approved Revilla bail asked to inhibit over ‘bias’",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2292116/sandigan-justice-who-approved-revilla-bail-asked-to-inhibit-over-bias",
+      "date": "2026-08-25"
+    }
+  ],
+  "last_updated": "2026-08-25"
+}
