@@ -1,8 +1,8 @@
 {
-  "id": "person-vince-dizon",
-  "name": "Vince Dizon",
-  "position": "Secretary",
-  "agency": "DPWH",
+  "id": "person-bfp-exec-tagged-in-anomalous-recruitment-scheme",
+  "name": "BFP exec tagged in anomalous recruitment scheme",
+  "position": "",
+  "agency": "Unknown",
   "region": "Unknown",
   "status": "pending",
   "admin_track": {
@@ -11,7 +11,7 @@
     "case_ids": []
   },
   "criminal_track": {
-    "stage": "filed",
+    "stage": "investigation",
     "status": "pending",
     "case_ids": []
   },
@@ -19,7 +19,7 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2293107/dizon-calls-dpwh-compliance-with-accessibility-law-terrible",
+      "url": "https://www.philstar.com/nation/2026/08/27/2552082/bfp-exec-tagged-anomalous-recruitment-scheme",
       "date": "2026-08-26"
     }
   ],

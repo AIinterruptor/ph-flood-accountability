@@ -2,7 +2,7 @@
   "id": "person-vince-dizon",
   "name": "Vince Dizon",
   "position": "Secretary",
-  "agency": "Unknown",
+  "agency": "DPWH",
   "region": "Unknown",
   "status": "pending",
   "admin_track": {
@@ -19,9 +19,9 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2290408/abalos-seeks-jail-time-for-those-behind-substandard-bulacan-projects",
-      "date": "2026-08-23"
+      "url": "https://newsinfo.inquirer.net/2293107/dizon-calls-dpwh-compliance-with-accessibility-law-terrible",
+      "date": "2026-08-26"
     }
   ],
-  "last_updated": "2026-08-23"
+  "last_updated": "2026-08-26"
 }

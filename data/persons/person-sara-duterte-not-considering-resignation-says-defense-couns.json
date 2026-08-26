@@ -1,0 +1,27 @@
+{
+  "id": "person-sara-duterte-not-considering-resignation-says-defense-couns",
+  "name": "Sara Duterte not considering resignation, says defense counsel",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2293165/sara-duterte-not-considering-resignation-says-defense-counsel",
+      "date": "2026-08-26"
+    }
+  ],
+  "last_updated": "2026-08-26"
+}

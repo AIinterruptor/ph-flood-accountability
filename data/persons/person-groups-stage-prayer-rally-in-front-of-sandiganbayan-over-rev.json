@@ -1,0 +1,27 @@
+{
+  "id": "person-groups-stage-prayer-rally-in-front-of-sandiganbayan-over-rev",
+  "name": "Groups stage prayer rally in front of Sandiganbayan over Revilla’s bail",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2293073/groups-stage-prayer-rally-in-front-of-sandiganbayan-over-revillas-bail",
+      "date": "2026-08-26"
+    }
+  ],
+  "last_updated": "2026-08-26"
+}
