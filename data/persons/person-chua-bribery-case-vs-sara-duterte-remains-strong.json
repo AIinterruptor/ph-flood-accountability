@@ -1,0 +1,27 @@
+{
+  "id": "person-chua-bribery-case-vs-sara-duterte-remains-strong",
+  "name": "Chua: Bribery case vs Sara Duterte remains strong",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2297889/chua-bribery-case-vs-sara-duterte-remains-strong",
+      "date": "2026-09-02"
+    }
+  ],
+  "last_updated": "2026-09-02"
+}

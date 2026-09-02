@@ -1,0 +1,27 @@
+{
+  "id": "person-romualdez-lawyer-questions-ombudsmans-fixation-on-client",
+  "name": "Romualdez lawyer questions Ombudsman’s fixation on client",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2297963/romualdez-lawyer-questions-ombudsmans-fixation-vs-client",
+      "date": "2026-09-02"
+    }
+  ],
+  "last_updated": "2026-09-02"
+}
