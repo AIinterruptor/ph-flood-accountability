@@ -1,0 +1,27 @@
+{
+  "id": "person-speaker-martin-romualdez",
+  "name": "Speaker Martin Romualdez",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "charged",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "filed",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2298659/flood-control-cases-vs-romualdez-forthcoming-says-ombudsman-remulla",
+      "date": "2026-09-03"
+    }
+  ],
+  "last_updated": "2026-09-03"
+}

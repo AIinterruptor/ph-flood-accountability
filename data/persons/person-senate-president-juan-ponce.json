@@ -1,0 +1,27 @@
+{
+  "id": "person-senate-president-juan-ponce",
+  "name": "Senate President Juan Ponce",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "charged",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "filed",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2298628/sandiganbayan-affirms-junking-of-jinggoy-estradas-bail-bid",
+      "date": "2026-09-03"
+    }
+  ],
+  "last_updated": "2026-09-03"
+}

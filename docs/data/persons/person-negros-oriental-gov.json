@@ -1,0 +1,27 @@
+{
+  "id": "person-negros-oriental-gov",
+  "name": "Negros Oriental Gov",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "convicted",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "filed",
+    "status": "convicted",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2298825/3-in-degamo-massacre-convicted-on-firearms-explosives-charges-widow",
+      "date": "2026-09-03"
+    }
+  ],
+  "last_updated": "2026-09-03"
+}

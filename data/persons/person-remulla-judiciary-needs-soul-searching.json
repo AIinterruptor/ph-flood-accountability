@@ -1,0 +1,27 @@
+{
+  "id": "person-remulla-judiciary-needs-soul-searching",
+  "name": "Remulla: Judiciary needs ‘soul-searching’",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/headlines/2026/09/04/2553883/remulla-judiciary-needs-soul-searching",
+      "date": "2026-09-03"
+    }
+  ],
+  "last_updated": "2026-09-03"
+}

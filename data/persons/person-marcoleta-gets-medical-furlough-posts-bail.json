@@ -1,0 +1,27 @@
+{
+  "id": "person-marcoleta-gets-medical-furlough-posts-bail",
+  "name": "Marcoleta gets medical furlough, posts bail",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/nation/2026/09/04/2553865/marcoleta-gets-medical-furlough-posts-bail",
+      "date": "2026-09-03"
+    }
+  ],
+  "last_updated": "2026-09-03"
+}

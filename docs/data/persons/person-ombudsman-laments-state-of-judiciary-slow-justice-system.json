@@ -1,0 +1,27 @@
+{
+  "id": "person-ombudsman-laments-state-of-judiciary-slow-justice-system",
+  "name": "Ombudsman laments state of judiciary, slow justice system",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2298647/ombudsman-laments-state-of-judiciary-slow-justice-system",
+      "date": "2026-09-03"
+    }
+  ],
+  "last_updated": "2026-09-03"
+}

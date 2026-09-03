@@ -1,0 +1,27 @@
+{
+  "id": "person-sc-invites-ombudsman-to-file-proper-complaint-over-ca-ruli",
+  "name": "SC invites Ombudsman to file ‘proper complaint’ over CA rulings",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2298665/sc-invites-ombudsman-to-file-proper-complaint-over-ca-rulings",
+      "date": "2026-09-03"
+    }
+  ],
+  "last_updated": "2026-09-03"
+}

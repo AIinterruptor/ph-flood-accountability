@@ -1,0 +1,27 @@
+{
+  "id": "person-local-execs-vow-proper-use-of-p5832-billion-lgsf",
+  "name": "Local execs vow proper use of P58.32- billion LGSF",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/headlines/2026/09/04/2553876/local-execs-vow-proper-use-p5832-billion-lgsf",
+      "date": "2026-09-03"
+    }
+  ],
+  "last_updated": "2026-09-03"
+}
