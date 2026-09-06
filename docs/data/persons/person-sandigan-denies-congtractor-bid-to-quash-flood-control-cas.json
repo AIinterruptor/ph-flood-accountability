@@ -1,0 +1,27 @@
+{
+  "id": "person-sandigan-denies-congtractor-bid-to-quash-flood-control-cas",
+  "name": "Sandigan denies ‘congtractor’ bid to quash flood control cases",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/headlines/2026/09/07/2554497/sandigan-denies-congtractor-bid-quash-flood-control-cases",
+      "date": "2026-09-06"
+    }
+  ],
+  "last_updated": "2026-09-06"
+}

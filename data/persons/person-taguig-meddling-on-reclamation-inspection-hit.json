@@ -1,0 +1,27 @@
+{
+  "id": "person-taguig-meddling-on-reclamation-inspection-hit",
+  "name": "Taguig ‘meddling’ on reclamation inspection hit",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/headlines/2026/09/07/2554489/taguig-meddling-reclamation-inspection-hit",
+      "date": "2026-09-06"
+    }
+  ],
+  "last_updated": "2026-09-06"
+}

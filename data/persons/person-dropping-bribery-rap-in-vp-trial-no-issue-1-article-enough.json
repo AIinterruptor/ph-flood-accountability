@@ -1,0 +1,27 @@
+{
+  "id": "person-dropping-bribery-rap-in-vp-trial-no-issue-1-article-enough",
+  "name": "Dropping bribery rap in VP trial no issue; 1 article enough to convict – Tolosa",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2300131/dropping-bribery-rap-in-vp-trial-no-issue-1-article-enough-to-convict-tolosa",
+      "date": "2026-09-06"
+    }
+  ],
+  "last_updated": "2026-09-06"
+}
