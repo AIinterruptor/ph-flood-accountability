@@ -1,7 +1,7 @@
 {
-  "id": "person-sonny-angara",
-  "name": "Sonny Angara",
-  "position": "Secretary",
+  "id": "person-matibag-cayetano-may-face-raps-over-2019-sea-games-irregula",
+  "name": "Matibag: Cayetano may face raps over 2019 SEA Games irregularities",
+  "position": "",
   "agency": "Unknown",
   "region": "Unknown",
   "status": "pending",
@@ -11,7 +11,7 @@
     "case_ids": []
   },
   "criminal_track": {
-    "stage": "filed",
+    "stage": "investigation",
     "status": "pending",
     "case_ids": []
   },
@@ -19,7 +19,7 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2300904/angara-2027-deped-budget-lower-due-to-infra-being-defunded",
+      "url": "https://newsinfo.inquirer.net/2300909/matibag-cayetano-may-face-raps-over-2019-sea-games-irregularities",
       "date": "2026-09-07"
     }
   ],

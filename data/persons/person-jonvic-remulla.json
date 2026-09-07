@@ -1,8 +1,8 @@
 {
-  "id": "person-vince-dizon",
-  "name": "Vince Dizon",
+  "id": "person-jonvic-remulla",
+  "name": "Jonvic Remulla",
   "position": "Secretary",
-  "agency": "DPWH",
+  "agency": "Unknown",
   "region": "Unknown",
   "status": "pending",
   "admin_track": {
@@ -19,7 +19,7 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://www.philstar.com/nation/2026/09/08/2554746/2-dpwh-execs-sacked-over-fatal-open-drain-accident",
+      "url": "https://newsinfo.inquirer.net/2300402/martin-romualdez-arrested",
       "date": "2026-09-07"
     }
   ],

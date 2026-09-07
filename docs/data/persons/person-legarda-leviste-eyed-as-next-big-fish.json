@@ -1,8 +1,8 @@
 {
-  "id": "person-vince-dizon",
-  "name": "Vince Dizon",
-  "position": "Secretary",
-  "agency": "DPWH",
+  "id": "person-legarda-leviste-eyed-as-next-big-fish",
+  "name": "Legarda, Leviste eyed as next big fish",
+  "position": "",
+  "agency": "Unknown",
   "region": "Unknown",
   "status": "pending",
   "admin_track": {
@@ -11,7 +11,7 @@
     "case_ids": []
   },
   "criminal_track": {
-    "stage": "filed",
+    "stage": "investigation",
     "status": "pending",
     "case_ids": []
   },
@@ -19,7 +19,7 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://www.philstar.com/nation/2026/09/08/2554746/2-dpwh-execs-sacked-over-fatal-open-drain-accident",
+      "url": "https://www.philstar.com/headlines/2026/09/08/2554768/legarda-leviste-eyed-next-big-fish",
       "date": "2026-09-07"
     }
   ],
