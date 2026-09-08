@@ -1,7 +1,7 @@
 {
-  "id": "person-jonvic-remulla",
-  "name": "Jonvic Remulla",
-  "position": "Secretary",
+  "id": "person-mayor-orville-fua",
+  "name": "Mayor Orville Fua",
+  "position": "Mayor",
   "agency": "Unknown",
   "region": "Unknown",
   "status": "pending",
@@ -19,7 +19,7 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://www.philstar.com/headlines/2026/09/09/2555016/remullas-flying-france-co",
+      "url": "https://newsinfo.inquirer.net/2301696/sc-upholds-graft-conviction-of-ex-siquijor-town-mayor-4-others",
       "date": "2026-09-08"
     }
   ],

@@ -1,7 +1,7 @@
 {
-  "id": "person-jonvic-remulla",
-  "name": "Jonvic Remulla",
-  "position": "Secretary",
+  "id": "person-recantations-can-aid-martin-say-house-allies",
+  "name": "Recantations can aid Martin, say House allies",
+  "position": "",
   "agency": "Unknown",
   "region": "Unknown",
   "status": "pending",
@@ -11,7 +11,7 @@
     "case_ids": []
   },
   "criminal_track": {
-    "stage": "filed",
+    "stage": "investigation",
     "status": "pending",
     "case_ids": []
   },
@@ -19,7 +19,7 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://www.philstar.com/headlines/2026/09/09/2555016/remullas-flying-france-co",
+      "url": "https://www.philstar.com/headlines/2026/09/09/2554980/recantations-can-aid-martin-say-house-allies",
       "date": "2026-09-08"
     }
   ],
