@@ -1,0 +1,27 @@
+{
+  "id": "person-nbi-discovers-double-payments-for-seag-cauldron",
+  "name": "NBI discovers ‘double payments’ for SEAG cauldron",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/headlines/2026/09/10/2555237/nbi-discovers-double-payments-seag-cauldron",
+      "date": "2026-09-09"
+    }
+  ],
+  "last_updated": "2026-09-09"
+}

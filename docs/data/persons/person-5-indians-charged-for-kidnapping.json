@@ -1,0 +1,27 @@
+{
+  "id": "person-5-indians-charged-for-kidnapping",
+  "name": "5 Indians charged  for kidnapping",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/nation/2026/09/10/2555221/5-indians-charged-kidnapping",
+      "date": "2026-09-09"
+    }
+  ],
+  "last_updated": "2026-09-09"
+}

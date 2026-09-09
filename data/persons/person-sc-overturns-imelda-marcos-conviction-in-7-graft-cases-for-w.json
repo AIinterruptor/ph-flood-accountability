@@ -1,0 +1,27 @@
+{
+  "id": "person-sc-overturns-imelda-marcos-conviction-in-7-graft-cases-for-w",
+  "name": "SC overturns Imelda Marcos conviction in 7 graft cases for weak evidence",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2302638/sc-overturns-imelda-marcos-conviction-in-7-graft-cases-for-weak-evidence",
+      "date": "2026-09-09"
+    }
+  ],
+  "last_updated": "2026-09-09"
+}
