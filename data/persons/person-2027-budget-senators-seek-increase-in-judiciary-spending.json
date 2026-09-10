@@ -1,6 +1,6 @@
 {
-  "id": "person-house-speaker-martin-romualdez",
-  "name": "House Speaker Martin Romualdez",
+  "id": "person-2027-budget-senators-seek-increase-in-judiciary-spending",
+  "name": "2027 budget: Senators seek increase in judiciary spending",
   "position": "",
   "agency": "Unknown",
   "region": "Unknown",
@@ -11,7 +11,7 @@
     "case_ids": []
   },
   "criminal_track": {
-    "stage": "filed",
+    "stage": "investigation",
     "status": "pending",
     "case_ids": []
   },
@@ -19,7 +19,7 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2303017/watch-5-dead-in-palawan-ferry-fire-tops-inqtoday-newscast",
+      "url": "https://newsinfo.inquirer.net/2303094/2027-budget-senators-seek-increase-in-judiciary-spending",
       "date": "2026-09-10"
     }
   ],

@@ -1,6 +1,6 @@
 {
-  "id": "person-house-speaker-martin-romualdez",
-  "name": "House Speaker Martin Romualdez",
+  "id": "person-sandigan-to-bjmp-take-custody-of-romualdez",
+  "name": "Sandigan to BJMP: Take custody of Romualdez",
   "position": "",
   "agency": "Unknown",
   "region": "Unknown",
@@ -11,7 +11,7 @@
     "case_ids": []
   },
   "criminal_track": {
-    "stage": "filed",
+    "stage": "investigation",
     "status": "pending",
     "case_ids": []
   },
@@ -19,7 +19,7 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2303017/watch-5-dead-in-palawan-ferry-fire-tops-inqtoday-newscast",
+      "url": "https://www.philstar.com/headlines/2026/09/11/2555540/sandigan-bjmp-take-custody-romualdez",
       "date": "2026-09-10"
     }
   ],

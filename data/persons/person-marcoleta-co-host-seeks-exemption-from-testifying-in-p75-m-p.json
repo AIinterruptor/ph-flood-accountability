@@ -1,6 +1,6 @@
 {
-  "id": "person-house-speaker-martin-romualdez",
-  "name": "House Speaker Martin Romualdez",
+  "id": "person-marcoleta-co-host-seeks-exemption-from-testifying-in-p75-m-p",
+  "name": "Marcoleta co-host seeks exemption from testifying in P75-M plunder case",
   "position": "",
   "agency": "Unknown",
   "region": "Unknown",
@@ -11,7 +11,7 @@
     "case_ids": []
   },
   "criminal_track": {
-    "stage": "filed",
+    "stage": "investigation",
     "status": "pending",
     "case_ids": []
   },
@@ -19,7 +19,7 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2303017/watch-5-dead-in-palawan-ferry-fire-tops-inqtoday-newscast",
+      "url": "https://newsinfo.inquirer.net/2303095/marcoleta-co-host-seeks-exemption-from-testifying-in-p75-m-plunder-case",
       "date": "2026-09-10"
     }
   ],

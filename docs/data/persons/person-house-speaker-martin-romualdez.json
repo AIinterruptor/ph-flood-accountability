@@ -4,7 +4,7 @@
   "position": "",
   "agency": "Unknown",
   "region": "Unknown",
-  "status": "charged",
+  "status": "pending",
   "admin_track": {
     "stage": "none",
     "status": "none",
@@ -19,9 +19,9 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2289146/romualdez-counters-plunder-raps-anew-includes-guteza-in-defense",
-      "date": "2026-08-20"
+      "url": "https://newsinfo.inquirer.net/2303017/watch-5-dead-in-palawan-ferry-fire-tops-inqtoday-newscast",
+      "date": "2026-09-10"
     }
   ],
-  "last_updated": "2026-08-20"
+  "last_updated": "2026-09-10"
 }
