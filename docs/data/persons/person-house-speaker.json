@@ -1,6 +1,6 @@
 {
-  "id": "person-palace-sc-ruling-on-imelda-wont-affect-chief-justice-selec",
-  "name": "Palace: SC ruling on Imelda won’t affect chief justice selection",
+  "id": "person-house-speaker",
+  "name": "House Speaker",
   "position": "",
   "agency": "Unknown",
   "region": "Unknown",
@@ -11,7 +11,7 @@
     "case_ids": []
   },
   "criminal_track": {
-    "stage": "investigation",
+    "stage": "filed",
     "status": "pending",
     "case_ids": []
   },
@@ -19,7 +19,7 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2303942/palace-on-sc-decision-on-imelda",
+      "url": "https://newsinfo.inquirer.net/2303960/sandiganbayan-orders-romualdez-transfer-to-pgh",
       "date": "2026-09-12"
     }
   ],
