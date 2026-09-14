@@ -4,7 +4,7 @@
   "position": "Secretary",
   "agency": "DPWH",
   "region": "Unknown",
-  "status": "pending",
+  "status": "charged",
   "admin_track": {
     "stage": "none",
     "status": "none",
@@ -19,9 +19,9 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2285599/abante-says-senators-should-explain-p24-billion-leadership-fund",
-      "date": "2026-08-16"
+      "url": "https://newsinfo.inquirer.net/2305063/estrada-asks-court-to-reconsider-dropping-of-bonoan-in-plunder-graft-cases",
+      "date": "2026-09-14"
     }
   ],
-  "last_updated": "2026-08-16"
+  "last_updated": "2026-09-14"
 }

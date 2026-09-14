@@ -1,6 +1,6 @@
 {
-  "id": "person-house-speaker-martin-romualdez",
-  "name": "House Speaker Martin Romualdez",
+  "id": "person-ridon-foreign-trips-are-key-to-checking-unexplained-wealth",
+  "name": "Ridon: Foreign trips are key to checking unexplained wealth",
   "position": "",
   "agency": "Unknown",
   "region": "Unknown",
@@ -11,7 +11,7 @@
     "case_ids": []
   },
   "criminal_track": {
-    "stage": "filed",
+    "stage": "investigation",
     "status": "pending",
     "case_ids": []
   },
@@ -19,7 +19,7 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2305093/explainer-what-happens-to-romualdez-once-detained-at-payatas",
+      "url": "https://newsinfo.inquirer.net/2305062/ridon-foreign-trips-are-key-to-checking-unexplained-wealth",
       "date": "2026-09-14"
     }
   ],
