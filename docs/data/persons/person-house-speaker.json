@@ -1,7 +1,7 @@
 {
   "id": "person-house-speaker",
   "name": "House Speaker",
-  "position": "",
+  "position": "Secretary",
   "agency": "Unknown",
   "region": "Unknown",
   "status": "pending",
@@ -19,9 +19,9 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2303960/sandiganbayan-orders-romualdez-transfer-to-pgh",
-      "date": "2026-09-12"
+      "url": "https://newsinfo.inquirer.net/2305694/romualdezs-arrest-proof-of-marcos-promise",
+      "date": "2026-09-15"
     }
   ],
-  "last_updated": "2026-09-12"
+  "last_updated": "2026-09-15"
 }

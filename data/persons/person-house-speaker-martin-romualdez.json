@@ -4,7 +4,7 @@
   "position": "",
   "agency": "Unknown",
   "region": "Unknown",
-  "status": "pending",
+  "status": "charged",
   "admin_track": {
     "stage": "none",
     "status": "none",
@@ -19,9 +19,9 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2305093/explainer-what-happens-to-romualdez-once-detained-at-payatas",
-      "date": "2026-09-14"
+      "url": "https://newsinfo.inquirer.net/2305785/martin-romualdez-allowed-to-attend-arraignment-via-videoconference",
+      "date": "2026-09-15"
     }
   ],
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-15"
 }

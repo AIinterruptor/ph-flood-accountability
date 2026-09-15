@@ -1,7 +1,7 @@
 {
-  "id": "person-house-speaker",
-  "name": "House Speaker",
-  "position": "Secretary",
+  "id": "person-cayetano-lacson-spar-over-anti-corruption-drive",
+  "name": "Cayetano, Lacson spar over anti-corruption drive",
+  "position": "",
   "agency": "Unknown",
   "region": "Unknown",
   "status": "pending",
@@ -11,7 +11,7 @@
     "case_ids": []
   },
   "criminal_track": {
-    "stage": "filed",
+    "stage": "investigation",
     "status": "pending",
     "case_ids": []
   },
@@ -19,7 +19,7 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2305694/romualdezs-arrest-proof-of-marcos-promise",
+      "url": "https://newsinfo.inquirer.net/2305713/alan-cayetano-scoffs-at-lacsons-anti-corruption-drive",
       "date": "2026-09-15"
     }
   ],

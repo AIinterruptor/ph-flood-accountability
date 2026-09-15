@@ -1,0 +1,27 @@
+{
+  "id": "person-bailey-bridge-built-after-calungbuyan-bridge-closure-in-iloc",
+  "name": "Bailey bridge built after Calungbuyan Bridge closure in Ilocos Sur",
+  "position": "",
+  "agency": "DPWH",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2305831/bailey-bridge-built-after-calungbuyan-bridge-closure-in-ilocos-sur",
+      "date": "2026-09-15"
+    }
+  ],
+  "last_updated": "2026-09-15"
+}

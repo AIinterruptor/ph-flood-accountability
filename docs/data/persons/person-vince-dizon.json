@@ -2,7 +2,7 @@
   "id": "person-vince-dizon",
   "name": "Vince Dizon",
   "position": "Secretary",
-  "agency": "DPWH",
+  "agency": "Unknown",
   "region": "Unknown",
   "status": "pending",
   "admin_track": {
@@ -19,9 +19,14 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://www.philstar.com/nation/2026/09/08/2554746/2-dpwh-execs-sacked-over-fatal-open-drain-accident",
-      "date": "2026-09-07"
+      "url": "https://newsinfo.inquirer.net/2305694/romualdezs-arrest-proof-of-marcos-promise",
+      "date": "2026-09-15"
+    },
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2305617/dpwh-to-build-3-large-temporary-basins-for-floodwaters-at-luneta",
+      "date": "2026-09-15"
     }
   ],
-  "last_updated": "2026-09-07"
+  "last_updated": "2026-09-15"
 }
