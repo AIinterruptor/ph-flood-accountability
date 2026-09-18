@@ -1,8 +1,8 @@
 {
-  "id": "person-melvin-matibag",
-  "name": "Melvin Matibag",
-  "position": "Director",
-  "agency": "Unknown",
+  "id": "person-dpwh-to-execute-solutions-to-dagupan-flooding",
+  "name": "DPWH to execute solutions to Dagupan flooding",
+  "position": "",
+  "agency": "DPWH",
   "region": "Unknown",
   "status": "pending",
   "admin_track": {
@@ -11,7 +11,7 @@
     "case_ids": []
   },
   "criminal_track": {
-    "stage": "filed",
+    "stage": "investigation",
     "status": "pending",
     "case_ids": []
   },
@@ -19,7 +19,7 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2307517/matibag-asks-why-is-rep-duterte-reacting-when-probe-is-on-contractors",
+      "url": "https://newsinfo.inquirer.net/2307482/dpwh-to-execute-solutions-to-dagupan-flooding",
       "date": "2026-09-18"
     }
   ],
