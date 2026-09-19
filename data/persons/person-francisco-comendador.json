@@ -1,10 +1,10 @@
 {
-  "id": "person-speaker-martin-romualdez",
-  "name": "Speaker Martin Romualdez",
-  "position": "",
+  "id": "person-francisco-comendador",
+  "name": "Francisco Comendador",
+  "position": "General Manager",
   "agency": "Unknown",
   "region": "Unknown",
-  "status": "pending",
+  "status": "suspended",
   "admin_track": {
     "stage": "none",
     "status": "none",
@@ -19,7 +19,7 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://www.philstar.com/headlines/2026/09/20/2557529/romualdez-camp-ex-speaker-not-corruption-mastermind",
+      "url": "https://newsinfo.inquirer.net/2308041/cebu-port-chief-denies-bias-says-complainant-misleading-ombudsman",
       "date": "2026-09-19"
     }
   ],

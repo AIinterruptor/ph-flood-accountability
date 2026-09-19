@@ -1,6 +1,6 @@
 {
-  "id": "person-speaker-martin-romualdez",
-  "name": "Speaker Martin Romualdez",
+  "id": "person-laguna-solon-dares-pulong-duterte-show-evidence-of-anomalou",
+  "name": "Laguna solon dares Pulong Duterte: Show evidence of anomalous projects",
   "position": "",
   "agency": "Unknown",
   "region": "Unknown",
@@ -11,7 +11,7 @@
     "case_ids": []
   },
   "criminal_track": {
-    "stage": "filed",
+    "stage": "investigation",
     "status": "pending",
     "case_ids": []
   },
@@ -19,7 +19,7 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://www.philstar.com/headlines/2026/09/20/2557529/romualdez-camp-ex-speaker-not-corruption-mastermind",
+      "url": "https://newsinfo.inquirer.net/2308053/laguna-solon-dares-pulong-duterte-show-evidence-of-anomalous-projects",
       "date": "2026-09-19"
     }
   ],
