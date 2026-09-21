@@ -1,0 +1,27 @@
+{
+  "id": "person-bayan-mendiola-rally-a-success-despite-the-overkill-fea",
+  "name": "Bayan: Mendiola rally a success despite the ‘overkill,’ ‘fear mongering’",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2309198/bayan-mendiola-rally-a-success-despite-the-overkill-fear-mongering",
+      "date": "2026-09-21"
+    }
+  ],
+  "last_updated": "2026-09-21"
+}

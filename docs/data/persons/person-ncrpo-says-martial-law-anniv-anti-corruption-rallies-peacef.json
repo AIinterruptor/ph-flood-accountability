@@ -1,0 +1,27 @@
+{
+  "id": "person-ncrpo-says-martial-law-anniv-anti-corruption-rallies-peacef",
+  "name": "NCRPO says Martial Law anniv, anti-corruption rallies peaceful",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2309171/ncrpo-says-martial-law-anniv-anti-corruption-rallies-peaceful",
+      "date": "2026-09-21"
+    }
+  ],
+  "last_updated": "2026-09-21"
+}

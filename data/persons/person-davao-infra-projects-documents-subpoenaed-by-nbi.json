@@ -1,0 +1,27 @@
+{
+  "id": "person-davao-infra-projects-documents-subpoenaed-by-nbi",
+  "name": "Davao infra projects documents subpoenaed by NBI",
+  "position": "",
+  "agency": "DPWH",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2309041/davao-infra-projects-documents-subpoenaed-by-nbi",
+      "date": "2026-09-21"
+    }
+  ],
+  "last_updated": "2026-09-21"
+}

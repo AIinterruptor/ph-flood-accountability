@@ -1,0 +1,27 @@
+{
+  "id": "person-nbi-summons-dpwh-davao-chief",
+  "name": "NBI summons DPWH-Davao chief",
+  "position": "",
+  "agency": "DPWH",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/nation/2026/09/22/2557908/nbi-summons-dpwh-davao-chief",
+      "date": "2026-09-21"
+    }
+  ],
+  "last_updated": "2026-09-21"
+}
