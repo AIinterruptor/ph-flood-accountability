@@ -1,0 +1,27 @@
+{
+  "id": "person-calumpit-residents-march-in-transparency-call-amid-flood-co",
+  "name": "Calumpit residents march in transparency call amid flood, corruption",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2309737/calumpit-residents-march-in-transparency-call-amid-flood-corruption",
+      "date": "2026-09-22"
+    }
+  ],
+  "last_updated": "2026-09-22"
+}

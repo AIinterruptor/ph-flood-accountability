@@ -1,0 +1,27 @@
+{
+  "id": "person-ombudsmans-ghost-internet-probe-zeroes-in-on-dict",
+  "name": "Ombudsman’s ‘ghost internet’ probe zeroes in on DICT",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2309778/ombudsmans-ghost-internet-probe-zeroes-in-on-dict",
+      "date": "2026-09-22"
+    }
+  ],
+  "last_updated": "2026-09-22"
+}

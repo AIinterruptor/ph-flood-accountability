@@ -1,0 +1,27 @@
+{
+  "id": "person-firm-boc-personnel-charged-over-p175-m-smuggled-veggies",
+  "name": "Firm, BOC personnel charged over P17.5-M smuggled veggies",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2309941/firm-boc-personnel-charged-over-p17-5-m-smuggled-veggies",
+      "date": "2026-09-22"
+    }
+  ],
+  "last_updated": "2026-09-22"
+}

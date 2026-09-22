@@ -1,0 +1,27 @@
+{
+  "id": "person-palace-backs-ombudsmans-probe-into-dicts-alleged-ghost-in",
+  "name": "Palace backs ombudsman’s probe into DICT’s alleged ‘ghost internet’ scheme",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2309725/palace-backs-ombudsmans-probe-into-dicts-alleged-ghost-internet-scheme",
+      "date": "2026-09-22"
+    }
+  ],
+  "last_updated": "2026-09-22"
+}
