@@ -1,0 +1,27 @@
+{
+  "id": "person-camille-urges-respect-for-absent-senators",
+  "name": "Camille urges respect for absent senators",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/headlines/2026/09/24/2558520/camille-urges-respect-absent-senators",
+      "date": "2026-09-23"
+    }
+  ],
+  "last_updated": "2026-09-23"
+}

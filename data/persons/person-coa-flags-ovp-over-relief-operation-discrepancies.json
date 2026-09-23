@@ -1,0 +1,27 @@
+{
+  "id": "person-coa-flags-ovp-over-relief-operation-discrepancies",
+  "name": "COA flags OVP over relief operation discrepancies",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/headlines/2026/09/24/2558542/coa-flags-ovp-over-relief-operation-discrepancies",
+      "date": "2026-09-23"
+    }
+  ],
+  "last_updated": "2026-09-23"
+}
