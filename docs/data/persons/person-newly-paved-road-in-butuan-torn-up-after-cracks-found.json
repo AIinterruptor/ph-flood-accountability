@@ -1,8 +1,8 @@
 {
-  "id": "person-vince-dizon",
-  "name": "Vince Dizon",
-  "position": "Secretary",
-  "agency": "Unknown",
+  "id": "person-newly-paved-road-in-butuan-torn-up-after-cracks-found",
+  "name": "Newly paved road in Butuan torn up after cracks found",
+  "position": "",
+  "agency": "DPWH",
   "region": "Unknown",
   "status": "pending",
   "admin_track": {
@@ -11,7 +11,7 @@
     "case_ids": []
   },
   "criminal_track": {
-    "stage": "filed",
+    "stage": "investigation",
     "status": "pending",
     "case_ids": []
   },
@@ -19,7 +19,7 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2311362/dizon-many-of-new-fund-changes-mostly-for-effective-flood-control",
+      "url": "https://newsinfo.inquirer.net/2311110/newly-paved-road-in-butuan-torn-up-after-cracks-found",
       "date": "2026-09-24"
     }
   ],

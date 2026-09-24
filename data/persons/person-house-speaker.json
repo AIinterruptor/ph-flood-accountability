@@ -1,10 +1,10 @@
 {
   "id": "person-house-speaker",
   "name": "House Speaker",
-  "position": "Secretary",
+  "position": "",
   "agency": "Unknown",
   "region": "Unknown",
-  "status": "pending",
+  "status": "suspended",
   "admin_track": {
     "stage": "none",
     "status": "none",
@@ -19,9 +19,9 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2305694/romualdezs-arrest-proof-of-marcos-promise",
-      "date": "2026-09-15"
+      "url": "https://newsinfo.inquirer.net/2311329/romualdez-camp-to-submit-by-monday-comment-vs-preventive-suspension",
+      "date": "2026-09-24"
     }
   ],
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-24"
 }

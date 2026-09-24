@@ -1,8 +1,8 @@
 {
-  "id": "person-vince-dizon",
-  "name": "Vince Dizon",
-  "position": "Secretary",
-  "agency": "Unknown",
+  "id": "person-ako-bicol-representative-zaldy",
+  "name": "Ako Bicol Representative Zaldy",
+  "position": "",
+  "agency": "DPWH",
   "region": "Unknown",
   "status": "pending",
   "admin_track": {
@@ -19,7 +19,7 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2311362/dizon-many-of-new-fund-changes-mostly-for-effective-flood-control",
+      "url": "https://newsinfo.inquirer.net/2311104/witness-dpwh-yet-to-give-cos-sunwest-p14m-meant-to-fix-defects",
       "date": "2026-09-24"
     }
   ],

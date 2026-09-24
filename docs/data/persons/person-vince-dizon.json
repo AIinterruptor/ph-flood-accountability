@@ -2,7 +2,7 @@
   "id": "person-vince-dizon",
   "name": "Vince Dizon",
   "position": "Secretary",
-  "agency": "DPWH",
+  "agency": "Unknown",
   "region": "Unknown",
   "status": "pending",
   "admin_track": {
@@ -19,9 +19,9 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2308021/dpwh-to-deploy-new-equipment-to-flood-hit-areas-in-bulacan",
-      "date": "2026-09-19"
+      "url": "https://newsinfo.inquirer.net/2311362/dizon-many-of-new-fund-changes-mostly-for-effective-flood-control",
+      "date": "2026-09-24"
     }
   ],
-  "last_updated": "2026-09-19"
+  "last_updated": "2026-09-24"
 }

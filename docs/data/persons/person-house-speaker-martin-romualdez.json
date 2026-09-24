@@ -4,7 +4,7 @@
   "position": "",
   "agency": "Unknown",
   "region": "Unknown",
-  "status": "charged",
+  "status": "pending",
   "admin_track": {
     "stage": "none",
     "status": "none",
@@ -19,9 +19,9 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2305785/martin-romualdez-allowed-to-attend-arraignment-via-videoconference",
-      "date": "2026-09-15"
+      "url": "https://newsinfo.inquirer.net/2311279/sandiganbayan-oks-romualdez-pretrial-attendance-via-videoconference",
+      "date": "2026-09-24"
     }
   ],
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-24"
 }
