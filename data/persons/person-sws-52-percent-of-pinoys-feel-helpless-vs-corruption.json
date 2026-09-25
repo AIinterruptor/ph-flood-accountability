@@ -1,7 +1,7 @@
 {
-  "id": "person-melvin-matibag",
-  "name": "Melvin Matibag",
-  "position": "Director",
+  "id": "person-sws-52-percent-of-pinoys-feel-helpless-vs-corruption",
+  "name": "SWS: 52 percent of Pinoys feel helpless vs corruption",
+  "position": "",
   "agency": "Unknown",
   "region": "Unknown",
   "status": "pending",
@@ -11,7 +11,7 @@
     "case_ids": []
   },
   "criminal_track": {
-    "stage": "filed",
+    "stage": "investigation",
     "status": "pending",
     "case_ids": []
   },
@@ -19,7 +19,7 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://www.philstar.com/nation/2026/09/26/2558927/nbi-6-davao-flood-projects-may-be-ghosts",
+      "url": "https://www.philstar.com/headlines/2026/09/26/2558944/sws-52-percent-pinoys-feel-helpless-vs-corruption",
       "date": "2026-09-25"
     }
   ],

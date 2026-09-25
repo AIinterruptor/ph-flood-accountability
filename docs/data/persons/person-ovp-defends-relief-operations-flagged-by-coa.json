@@ -1,7 +1,7 @@
 {
-  "id": "person-melvin-matibag",
-  "name": "Melvin Matibag",
-  "position": "Director",
+  "id": "person-ovp-defends-relief-operations-flagged-by-coa",
+  "name": "OVP defends relief operations flagged by COA",
+  "position": "",
   "agency": "Unknown",
   "region": "Unknown",
   "status": "pending",
@@ -11,7 +11,7 @@
     "case_ids": []
   },
   "criminal_track": {
-    "stage": "filed",
+    "stage": "investigation",
     "status": "pending",
     "case_ids": []
   },
@@ -19,7 +19,7 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://www.philstar.com/nation/2026/09/26/2558927/nbi-6-davao-flood-projects-may-be-ghosts",
+      "url": "https://www.philstar.com/headlines/2026/09/26/2558952/ovp-defends-relief-operations-flagged-coa",
       "date": "2026-09-25"
     }
   ],
