@@ -1,0 +1,27 @@
+{
+  "id": "person-defense-to-present-romualdez-in-plunder-case",
+  "name": "Defense to present Romualdez in plunder case",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2311895/defense-to-present-romualdez-in-plunder-case",
+      "date": "2026-09-26"
+    }
+  ],
+  "last_updated": "2026-09-26"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "person-integrity-portal-to-surveil-dpwh-projects-ready-by-end-of-20",
+  "name": "Integrity portal to surveil DPWH projects ready by end of 2026",
+  "position": "",
+  "agency": "DPWH",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2311997/integrity-portal-to-surveil-dpwh-projects-ready-by-end-of-2026",
+      "date": "2026-09-26"
+    }
+  ],
+  "last_updated": "2026-09-26"
+}

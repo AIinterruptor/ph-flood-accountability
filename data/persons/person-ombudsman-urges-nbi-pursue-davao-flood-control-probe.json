@@ -1,0 +1,27 @@
+{
+  "id": "person-ombudsman-urges-nbi-pursue-davao-flood-control-probe",
+  "name": "Ombudsman urges NBI: Pursue Davao flood control probe",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/headlines/2026/09/27/2559203/ombudsman-urges-nbi-pursue-davao-flood-control-probe",
+      "date": "2026-09-26"
+    }
+  ],
+  "last_updated": "2026-09-26"
+}

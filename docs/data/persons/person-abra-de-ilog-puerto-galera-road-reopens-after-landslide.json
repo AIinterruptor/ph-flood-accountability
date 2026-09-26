@@ -1,0 +1,27 @@
+{
+  "id": "person-abra-de-ilog-puerto-galera-road-reopens-after-landslide",
+  "name": "Abra de Ilog-Puerto Galera road reopens after landslide",
+  "position": "",
+  "agency": "DPWH",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2312119/abra-de-ilog-puerto-galera-road-reopens-after-landslide",
+      "date": "2026-09-26"
+    }
+  ],
+  "last_updated": "2026-09-26"
+}
