@@ -1,8 +1,8 @@
 {
   "id": "person-claire-castro",
   "name": "Claire Castro",
-  "position": "",
-  "agency": "DPWH",
+  "position": "Secretary",
+  "agency": "Unknown",
   "region": "Unknown",
   "status": "pending",
   "admin_track": {
@@ -19,14 +19,9 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2267058/dpwh-to-begin-rehab-of-key-naga-city-road-this-july",
-      "date": "2026-07-20"
-    },
-    {
-      "type": "news",
-      "url": "https://newsinfo.inquirer.net/2266921/castro-hits-cayetano-minion-word-not-biblical-account-for-sea-games-funds",
-      "date": "2026-07-20"
+      "url": "https://newsinfo.inquirer.net/2312605/palace-dares-sara-duterte-prove-claims-marcos-admin-plots-to-oust-her",
+      "date": "2026-09-27"
     }
   ],
-  "last_updated": "2026-07-20"
+  "last_updated": "2026-09-27"
 }

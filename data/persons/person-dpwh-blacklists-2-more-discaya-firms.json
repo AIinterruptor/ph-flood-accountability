@@ -1,7 +1,7 @@
 {
-  "id": "person-vince-dizon",
-  "name": "Vince Dizon",
-  "position": "Secretary",
+  "id": "person-dpwh-blacklists-2-more-discaya-firms",
+  "name": "DPWH blacklists 2 more Discaya firms",
+  "position": "",
   "agency": "DPWH",
   "region": "Unknown",
   "status": "pending",
@@ -11,7 +11,7 @@
     "case_ids": []
   },
   "criminal_track": {
-    "stage": "filed",
+    "stage": "investigation",
     "status": "pending",
     "case_ids": []
   },
@@ -19,7 +19,7 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2312336/lacson-hits-dpwh-chiefs-remark-on-taguig-projects",
+      "url": "https://www.philstar.com/headlines/2026/09/28/2559390/dpwh-blacklists-2-more-discaya-firms",
       "date": "2026-09-27"
     }
   ],

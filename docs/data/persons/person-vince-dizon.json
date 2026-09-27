@@ -2,7 +2,7 @@
   "id": "person-vince-dizon",
   "name": "Vince Dizon",
   "position": "Secretary",
-  "agency": "Unknown",
+  "agency": "DPWH",
   "region": "Unknown",
   "status": "pending",
   "admin_track": {
@@ -19,9 +19,9 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2311362/dizon-many-of-new-fund-changes-mostly-for-effective-flood-control",
-      "date": "2026-09-24"
+      "url": "https://newsinfo.inquirer.net/2312336/lacson-hits-dpwh-chiefs-remark-on-taguig-projects",
+      "date": "2026-09-27"
     }
   ],
-  "last_updated": "2026-09-24"
+  "last_updated": "2026-09-27"
 }
