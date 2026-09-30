@@ -1,0 +1,27 @@
+{
+  "id": "person-bonoan-remains-accused-in-graft-case",
+  "name": "Bonoan remains accused in graft case",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/headlines/2026/10/01/2560153/bonoan-remains-accused-graft-case",
+      "date": "2026-09-30"
+    }
+  ],
+  "last_updated": "2026-09-30"
+}

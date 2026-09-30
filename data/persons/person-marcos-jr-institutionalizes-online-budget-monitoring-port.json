@@ -1,0 +1,27 @@
+{
+  "id": "person-marcos-jr-institutionalizes-online-budget-monitoring-port",
+  "name": "Marcos Jr. institutionalizes  online budget  monitoring portal",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/headlines/2026/10/01/2560158/marcos-jr-institutionalizes-online-budget-monitoring-portal",
+      "date": "2026-09-30"
+    }
+  ],
+  "last_updated": "2026-09-30"
+}

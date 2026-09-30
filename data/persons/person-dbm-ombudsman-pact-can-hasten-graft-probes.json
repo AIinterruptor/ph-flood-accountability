@@ -1,0 +1,27 @@
+{
+  "id": "person-dbm-ombudsman-pact-can-hasten-graft-probes",
+  "name": "DBM-Ombudsman pact can hasten graft probes",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2314750/dbm-ombudsman-pact-can-hasten-graft-probes",
+      "date": "2026-09-30"
+    }
+  ],
+  "last_updated": "2026-09-30"
+}

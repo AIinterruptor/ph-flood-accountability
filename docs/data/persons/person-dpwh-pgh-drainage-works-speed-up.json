@@ -1,0 +1,27 @@
+{
+  "id": "person-dpwh-pgh-drainage-works-speed-up",
+  "name": "DPWH: PGH drainage works speed up",
+  "position": "",
+  "agency": "DPWH",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/nation/2026/10/01/2560191/dpwh-pgh-drainage-works-speed-up",
+      "date": "2026-09-30"
+    }
+  ],
+  "last_updated": "2026-09-30"
+}
