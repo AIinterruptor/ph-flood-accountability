@@ -1,0 +1,27 @@
+{
+  "id": "person-lawmakers-bid-to-consolidate-graft-cases-denied-anew",
+  "name": "Lawmaker’s bid to consolidate graft cases denied anew",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/nation/2026/10/03/2560520/lawmakers-bid-consolidate-graft-cases-denied-anew",
+      "date": "2026-10-02"
+    }
+  ],
+  "last_updated": "2026-10-02"
+}

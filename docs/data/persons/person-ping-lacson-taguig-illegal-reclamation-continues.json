@@ -1,0 +1,27 @@
+{
+  "id": "person-ping-lacson-taguig-illegal-reclamation-continues",
+  "name": "Ping Lacson: Taguig ‘illegal reclamation’ continues",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2315996/ping-lacson-taguig-illegal-reclamation-continues",
+      "date": "2026-10-02"
+    }
+  ],
+  "last_updated": "2026-10-02"
+}

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T21:40:26Z",
+  "last_updated": "2026-10-02T21:35:31Z",
   "totals": {
     "projects": 0,
     "persons": 5,
@@ -11,27 +11,27 @@
     "coa": {
       "status": "ok",
       "records": 0,
-      "last_success": "2026-09-30"
+      "last_success": "2026-10-02"
     },
     "ombudsman": {
       "status": "ok",
       "records": 0,
-      "last_success": "2026-09-30"
+      "last_success": "2026-10-02"
     },
     "sandiganbayan": {
       "status": "ok",
       "records": 0,
-      "last_success": "2026-09-30"
+      "last_success": "2026-10-02"
     },
     "news": {
       "status": "ok",
       "records": 5,
-      "last_success": "2026-09-30"
+      "last_success": "2026-10-02"
     },
     "dilg": {
       "status": "ok",
       "records": 0,
-      "last_success": "2026-09-30"
+      "last_success": "2026-10-02"
     }
   },
   "data_quality": {

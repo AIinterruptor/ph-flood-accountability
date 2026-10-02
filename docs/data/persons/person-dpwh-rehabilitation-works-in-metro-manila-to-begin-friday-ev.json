@@ -1,0 +1,27 @@
+{
+  "id": "person-dpwh-rehabilitation-works-in-metro-manila-to-begin-friday-ev",
+  "name": "DPWH rehabilitation works in Metro Manila to begin Friday evening",
+  "position": "",
+  "agency": "DPWH",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2315784/dpwh-rehabilitation-works-in-metro-manila-to-begin-friday-evening",
+      "date": "2026-10-02"
+    }
+  ],
+  "last_updated": "2026-10-02"
+}

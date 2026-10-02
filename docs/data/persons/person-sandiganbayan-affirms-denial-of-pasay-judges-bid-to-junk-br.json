@@ -1,0 +1,27 @@
+{
+  "id": "person-sandiganbayan-affirms-denial-of-pasay-judges-bid-to-junk-br",
+  "name": "Sandiganbayan affirms denial of Pasay judge’s bid to junk bribery case",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2315813/fwd-sandiganbayan-affirms-denial-of-pasay-judges-bid-to-junk-bribery-case",
+      "date": "2026-10-02"
+    }
+  ],
+  "last_updated": "2026-10-02"
+}
