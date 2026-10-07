@@ -1,0 +1,27 @@
+{
+  "id": "person-coa-flags-p922-billion-worth-of-uninsured-mmda-assets",
+  "name": "COA flags P9.22 billion worth of uninsured MMDA assets",
+  "position": "",
+  "agency": "MMDA",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2319411/coa-flags-p9-22-billion-worth-of-uninsured-mmda-assets",
+      "date": "2026-10-07"
+    }
+  ],
+  "last_updated": "2026-10-07"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "person-coa-flags-mmda-for-failing-to-insure-p922-b-assets",
+  "name": "COA flags MMDA for failing to insure P9.22-B assets",
+  "position": "",
+  "agency": "MMDA",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2319614/coa-flags-mmda-for-failing-to-insure-p9-22-b-assets",
+      "date": "2026-10-07"
+    }
+  ],
+  "last_updated": "2026-10-07"
+}

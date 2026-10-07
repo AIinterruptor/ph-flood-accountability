@@ -1,0 +1,27 @@
+{
+  "id": "person-comelec-unit-finds-inconsistencies-in-marcoletas-statemen",
+  "name": "Comelec unit finds ‘inconsistencies’ in Marcoleta’s statements",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2319600/comelec-unit-finds-inconsistencies-in-marcoletas-statements",
+      "date": "2026-10-07"
+    }
+  ],
+  "last_updated": "2026-10-07"
+}
