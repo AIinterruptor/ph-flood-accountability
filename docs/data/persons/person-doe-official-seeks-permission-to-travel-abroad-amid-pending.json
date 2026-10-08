@@ -1,0 +1,27 @@
+{
+  "id": "person-doe-official-seeks-permission-to-travel-abroad-amid-pending",
+  "name": "DOE official seeks permission to travel abroad amid pending graft case",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2320112/doe-official-seeks-permission-to-travel-abroad-amid-pending-graft-case",
+      "date": "2026-10-08"
+    }
+  ],
+  "last_updated": "2026-10-08"
+}

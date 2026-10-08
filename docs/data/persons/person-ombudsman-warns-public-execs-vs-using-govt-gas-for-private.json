@@ -1,0 +1,27 @@
+{
+  "id": "person-ombudsman-warns-public-execs-vs-using-govt-gas-for-private",
+  "name": "Ombudsman warns public execs vs using gov’t gas for private vehicles",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2320335/ombudsman-warns-public-execs-vs-using-govt-gas-for-private-vehicles",
+      "date": "2026-10-08"
+    }
+  ],
+  "last_updated": "2026-10-08"
+}

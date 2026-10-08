@@ -1,0 +1,27 @@
+{
+  "id": "person-marcos-quizzed-on-corruption-by-global-investors",
+  "name": "Marcos quizzed on corruption by global investors",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/headlines/2026/10/09/2561948/marcos-quizzed-corruption-global-investors",
+      "date": "2026-10-08"
+    }
+  ],
+  "last_updated": "2026-10-08"
+}

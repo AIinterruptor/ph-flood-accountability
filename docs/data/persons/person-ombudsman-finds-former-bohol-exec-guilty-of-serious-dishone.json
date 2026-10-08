@@ -1,0 +1,27 @@
+{
+  "id": "person-ombudsman-finds-former-bohol-exec-guilty-of-serious-dishone",
+  "name": "Ombudsman finds former Bohol exec guilty of ‘serious dishonesty’",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2320304/ombudsman-finds-former-bohol-exec-guilty-of-serious-dishonesty",
+      "date": "2026-10-08"
+    }
+  ],
+  "last_updated": "2026-10-08"
+}
