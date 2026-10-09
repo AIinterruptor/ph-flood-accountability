@@ -1,0 +1,27 @@
+{
+  "id": "person-dy-leads-legishear-delegation-in-calamba-to-discuss-laguna-f",
+  "name": "Dy leads LegisHear delegation in Calamba to discuss Laguna flooding",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2320633/dy-leads-legishear-delegation-in-calamba-to-discuss-laguna-flooding",
+      "date": "2026-10-09"
+    }
+  ],
+  "last_updated": "2026-10-09"
+}

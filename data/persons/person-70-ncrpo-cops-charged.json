@@ -1,0 +1,27 @@
+{
+  "id": "person-70-ncrpo-cops-charged",
+  "name": "70 NCRPO cops charged",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/nation/2026/10/10/2562087/70-ncrpo-cops-charged",
+      "date": "2026-10-09"
+    }
+  ],
+  "last_updated": "2026-10-09"
+}

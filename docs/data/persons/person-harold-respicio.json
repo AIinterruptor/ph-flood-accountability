@@ -1,0 +1,27 @@
+{
+  "id": "person-harold-respicio",
+  "name": "Harold Respicio",
+  "position": "Mayor",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "filed",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/nation/2026/10/10/2562090/respicio-must-prove-corruption-allegations-palace",
+      "date": "2026-10-09"
+    }
+  ],
+  "last_updated": "2026-10-09"
+}

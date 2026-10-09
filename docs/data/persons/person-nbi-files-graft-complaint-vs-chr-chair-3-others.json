@@ -1,0 +1,27 @@
+{
+  "id": "person-nbi-files-graft-complaint-vs-chr-chair-3-others",
+  "name": "NBI files graft complaint vs CHR chair, 3 others",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2320828/nbi-files-graft-complaint-vs-chr-chair-3-others",
+      "date": "2026-10-09"
+    }
+  ],
+  "last_updated": "2026-10-09"
+}
