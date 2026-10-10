@@ -1,6 +1,6 @@
 {
-  "id": "person-house-speaker-martin-romualdez",
-  "name": "House Speaker Martin Romualdez",
+  "id": "person-chr-chair-3-others-probed-over-foreign-training",
+  "name": "CHR chair, 3 others probed over foreign training",
   "position": "",
   "agency": "Unknown",
   "region": "Unknown",
@@ -11,7 +11,7 @@
     "case_ids": []
   },
   "criminal_track": {
-    "stage": "filed",
+    "stage": "investigation",
     "status": "pending",
     "case_ids": []
   },
@@ -19,7 +19,7 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2321043/sandiganbayan-grants-romualdezs-motion-to-sign-pre-trial-order-at-qc-jail",
+      "url": "https://www.philstar.com/nation/2026/10/11/2562311/chr-chair-3-others-probed-over-foreign-training",
       "date": "2026-10-10"
     }
   ],

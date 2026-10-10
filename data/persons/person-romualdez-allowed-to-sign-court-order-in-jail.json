@@ -1,6 +1,6 @@
 {
-  "id": "person-house-speaker-martin-romualdez",
-  "name": "House Speaker Martin Romualdez",
+  "id": "person-romualdez-allowed-to-sign-court-order-in-jail",
+  "name": "Romualdez allowed to sign court order in jail",
   "position": "",
   "agency": "Unknown",
   "region": "Unknown",
@@ -11,7 +11,7 @@
     "case_ids": []
   },
   "criminal_track": {
-    "stage": "filed",
+    "stage": "investigation",
     "status": "pending",
     "case_ids": []
   },
@@ -19,7 +19,7 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2321043/sandiganbayan-grants-romualdezs-motion-to-sign-pre-trial-order-at-qc-jail",
+      "url": "https://www.philstar.com/headlines/2026/10/11/2562354/romualdez-allowed-sign-court-order-jail",
       "date": "2026-10-10"
     }
   ],
