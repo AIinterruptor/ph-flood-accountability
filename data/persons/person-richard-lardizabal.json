@@ -1,0 +1,27 @@
+{
+  "id": "person-richard-lardizabal",
+  "name": "Richard Lardizabal",
+  "position": "Engineer",
+  "agency": "DPWH",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "filed",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2321660/p180-m-underdrainage-project-eyed-to-address-baguio-lagoon-flooding",
+      "date": "2026-10-11"
+    }
+  ],
+  "last_updated": "2026-10-11"
+}

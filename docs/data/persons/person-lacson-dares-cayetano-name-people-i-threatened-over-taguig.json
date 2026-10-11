@@ -1,0 +1,27 @@
+{
+  "id": "person-lacson-dares-cayetano-name-people-i-threatened-over-taguig",
+  "name": "Lacson dares Cayetano: Name people I threatened over Taguig projects",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2321630/lacson-dares-cayetano-name-people-i-threatened-over-taguig-projects",
+      "date": "2026-10-11"
+    }
+  ],
+  "last_updated": "2026-10-11"
+}
