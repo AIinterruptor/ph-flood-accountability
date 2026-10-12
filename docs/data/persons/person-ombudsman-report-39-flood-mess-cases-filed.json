@@ -1,0 +1,27 @@
+{
+  "id": "person-ombudsman-report-39-flood-mess-cases-filed",
+  "name": "Ombudsman report: 39 flood mess cases filed",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2322447/ombudsman-report-39-flood-mess-cases-filed",
+      "date": "2026-10-12"
+    }
+  ],
+  "last_updated": "2026-10-12"
+}

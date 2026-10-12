@@ -1,0 +1,27 @@
+{
+  "id": "person-jinggoy-estrada-suspended-anew-for-plunder",
+  "name": "Jinggoy Estrada suspended anew for plunder",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2322428/jinggoy-estrada-suspended-anew-for-plunder",
+      "date": "2026-10-12"
+    }
+  ],
+  "last_updated": "2026-10-12"
+}

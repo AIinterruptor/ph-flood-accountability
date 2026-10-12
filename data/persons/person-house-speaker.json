@@ -4,7 +4,7 @@
   "position": "",
   "agency": "Unknown",
   "region": "Unknown",
-  "status": "suspended",
+  "status": "pending",
   "admin_track": {
     "stage": "none",
     "status": "none",
@@ -19,9 +19,9 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2311329/romualdez-camp-to-submit-by-monday-comment-vs-preventive-suspension",
-      "date": "2026-09-24"
+      "url": "https://newsinfo.inquirer.net/2322438/video-of-maletas-in-romualdez-home-shown-in-court",
+      "date": "2026-10-12"
     }
   ],
-  "last_updated": "2026-09-24"
+  "last_updated": "2026-10-12"
 }

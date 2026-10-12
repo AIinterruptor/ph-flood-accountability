@@ -1,0 +1,27 @@
+{
+  "id": "person-walang-pasok-class-suspensions-for-tuesday-oct-13-2026",
+  "name": "WALANG PASOK: Class suspensions for Tuesday, Oct. 13, 2026",
+  "position": "",
+  "agency": "MWSS",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2322512/walang-pasok-class-suspensions-for-tuesday-oct-13-2026",
+      "date": "2026-10-12"
+    }
+  ],
+  "last_updated": "2026-10-12"
+}
