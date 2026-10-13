@@ -1,0 +1,27 @@
+{
+  "id": "person-walang-pasok-class-suspensions-for-wednesday-oct-14",
+  "name": "WALANG PASOK:  Class suspensions for Wednesday, Oct. 14",
+  "position": "",
+  "agency": "MWSS",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2323176/classes-suspended-in-parts-of-bulacan-on-wednesday-oct-14",
+      "date": "2026-10-13"
+    }
+  ],
+  "last_updated": "2026-10-13"
+}

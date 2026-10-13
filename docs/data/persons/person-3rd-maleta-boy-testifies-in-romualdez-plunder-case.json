@@ -1,0 +1,27 @@
+{
+  "id": "person-3rd-maleta-boy-testifies-in-romualdez-plunder-case",
+  "name": "3rd ‘maleta boy’ testifies in Romualdez plunder case",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2323290/3rd-maleta-boy-testifies-in-romualdez-plunder-case",
+      "date": "2026-10-13"
+    }
+  ],
+  "last_updated": "2026-10-13"
+}

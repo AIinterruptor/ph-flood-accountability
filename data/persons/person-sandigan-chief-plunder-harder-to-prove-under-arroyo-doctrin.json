@@ -1,0 +1,27 @@
+{
+  "id": "person-sandigan-chief-plunder-harder-to-prove-under-arroyo-doctrin",
+  "name": "Sandigan chief: Plunder harder to prove under Arroyo doctrine",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2323285/sandigan-chief-plunder-harder-to-prove-under-arroyo-doctrine",
+      "date": "2026-10-13"
+    }
+  ],
+  "last_updated": "2026-10-13"
+}

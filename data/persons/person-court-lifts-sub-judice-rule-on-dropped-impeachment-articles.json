@@ -1,0 +1,27 @@
+{
+  "id": "person-court-lifts-sub-judice-rule-on-dropped-impeachment-articles",
+  "name": "Court lifts sub judice rule on dropped impeachment articles",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2323111/court-lifts-sub-judice-rule-on-dropped-impeachment-articles",
+      "date": "2026-10-13"
+    }
+  ],
+  "last_updated": "2026-10-13"
+}

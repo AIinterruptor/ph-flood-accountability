@@ -1,0 +1,27 @@
+{
+  "id": "person-nbi-recommends-criminal-raps-vs-dpwh-private-firm-execs",
+  "name": "NBI recommends criminal raps vs DPWH, private firm execs",
+  "position": "",
+  "agency": "DPWH",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/nation/2026/10/14/2562993/nbi-recommends-criminal-raps-vs-dpwh-private-firm-execs",
+      "date": "2026-10-13"
+    }
+  ],
+  "last_updated": "2026-10-13"
+}
