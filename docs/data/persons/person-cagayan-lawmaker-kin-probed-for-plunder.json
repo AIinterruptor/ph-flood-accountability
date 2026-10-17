@@ -1,0 +1,27 @@
+{
+  "id": "person-cagayan-lawmaker-kin-probed-for-plunder",
+  "name": "Cagayan lawmaker, kin probed for plunder",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/nation/2026/10/18/2563955/cagayan-lawmaker-kin-probed-plunder",
+      "date": "2026-10-17"
+    }
+  ],
+  "last_updated": "2026-10-17"
+}

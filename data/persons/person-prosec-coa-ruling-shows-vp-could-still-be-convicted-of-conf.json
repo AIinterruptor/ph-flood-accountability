@@ -1,0 +1,27 @@
+{
+  "id": "person-prosec-coa-ruling-shows-vp-could-still-be-convicted-of-conf",
+  "name": "Prosec: COA ruling shows VP could still be convicted of confi funds misuse",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2325620/prosec-coa-ruling-shows-vp-could-still-be-convicted-of-confi-funds-misuse",
+      "date": "2026-10-17"
+    }
+  ],
+  "last_updated": "2026-10-17"
+}
