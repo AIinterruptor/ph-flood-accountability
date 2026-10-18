@@ -1,0 +1,27 @@
+{
+  "id": "person-evidence-on-dropped-impeachment-raps-going-to-ombudsman",
+  "name": "Evidence on dropped impeachment raps going to ombudsman",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/headlines/2026/10/19/2564122/evidence-dropped-impeachment-raps-going-ombudsman",
+      "date": "2026-10-18"
+    }
+  ],
+  "last_updated": "2026-10-18"
+}

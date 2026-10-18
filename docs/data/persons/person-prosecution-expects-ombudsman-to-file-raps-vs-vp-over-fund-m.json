@@ -1,0 +1,27 @@
+{
+  "id": "person-prosecution-expects-ombudsman-to-file-raps-vs-vp-over-fund-m",
+  "name": "Prosecution expects Ombudsman to file raps vs VP over fund misuse",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2326088/prosecution-expects-ombudsman-to-file-raps-vs-vp-over-fund-misuse",
+      "date": "2026-10-18"
+    }
+  ],
+  "last_updated": "2026-10-18"
+}
