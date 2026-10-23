@@ -1,0 +1,27 @@
+{
+  "id": "person-coa-flags-deficiencies-in-p17-b-doh-infra-projects",
+  "name": "COA flags deficiencies in P17-B DOH infra projects",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2329042/coa-flags-deficiencies-in-p17-b-doh-infra-projects",
+      "date": "2026-10-23"
+    }
+  ],
+  "last_updated": "2026-10-23"
+}

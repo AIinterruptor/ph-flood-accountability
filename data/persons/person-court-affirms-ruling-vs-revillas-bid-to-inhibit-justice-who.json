@@ -1,0 +1,27 @@
+{
+  "id": "person-court-affirms-ruling-vs-revillas-bid-to-inhibit-justice-who",
+  "name": "Court affirms ruling vs Revilla’s bid to inhibit justice who denied bail",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2329053/court-affirms-ruling-vs-revillas-bid-to-inhibit-justice-who-denied-bail",
+      "date": "2026-10-23"
+    }
+  ],
+  "last_updated": "2026-10-23"
+}
