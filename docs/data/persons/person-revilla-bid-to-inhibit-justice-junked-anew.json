@@ -1,0 +1,27 @@
+{
+  "id": "person-revilla-bid-to-inhibit-justice-junked-anew",
+  "name": "Revilla bid to inhibit justice junked anew",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/headlines/2026/10/25/2565506/revilla-bid-inhibit-justice-junked-anew",
+      "date": "2026-10-24"
+    }
+  ],
+  "last_updated": "2026-10-24"
+}
