@@ -1,0 +1,27 @@
+{
+  "id": "person-suspension-of-estrada-marcoleta-on-hold-pending-mr",
+  "name": "Suspension of Estrada, Marcoleta on hold pending MR",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2330105/estrada-marcoleta-suspensions-on-hold-pending-mr",
+      "date": "2026-10-25"
+    }
+  ],
+  "last_updated": "2026-10-25"
+}

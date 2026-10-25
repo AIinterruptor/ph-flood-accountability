@@ -1,0 +1,27 @@
+{
+  "id": "person-chua-vp-teams-objections-pang-socmed-reconsideration-no",
+  "name": "Chua: VP team’s objections ‘pang-socmed,’ reconsideration not sought",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2329978/chua-vp-teams-objections-pang-socmed-reconsideration-not-sought",
+      "date": "2026-10-25"
+    }
+  ],
+  "last_updated": "2026-10-25"
+}

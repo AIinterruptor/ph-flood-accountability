@@ -1,0 +1,27 @@
+{
+  "id": "person-dpwh-blacklists-7-erring-construction-firms",
+  "name": "DPWH blacklists 7 erring construction firms",
+  "position": "",
+  "agency": "DPWH",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/headlines/2026/10/26/2565678/dpwh-blacklists-7-erring-construction-firms",
+      "date": "2026-10-25"
+    }
+  ],
+  "last_updated": "2026-10-25"
+}

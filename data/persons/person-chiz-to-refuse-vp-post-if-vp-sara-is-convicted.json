@@ -1,0 +1,27 @@
+{
+  "id": "person-chiz-to-refuse-vp-post-if-vp-sara-is-convicted",
+  "name": "Chiz to refuse VP post if VP Sara is convicted",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/headlines/2026/10/26/2565680/chiz-refuse-vp-post-if-vp-sara-convicted",
+      "date": "2026-10-25"
+    }
+  ],
+  "last_updated": "2026-10-25"
+}
