@@ -1,0 +1,27 @@
+{
+  "id": "person-ombudsman-to-monitor-budget-review-sc-ruling",
+  "name": "Ombudsman to monitor budget, review SC ruling",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/headlines/2026/10/27/2565932/ombudsman-monitor-budget-review-sc-ruling",
+      "date": "2026-10-26"
+    }
+  ],
+  "last_updated": "2026-10-26"
+}

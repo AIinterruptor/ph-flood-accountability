@@ -1,0 +1,27 @@
+{
+  "id": "person-court-junks-ombudsman-move-vs-justice-who-grants-revillas-b",
+  "name": "Court junks Ombudsman move vs justice who grants Revilla’s bail",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2330456/court-junks-ombudsman-move-vs-justice-who-grants-revillas-bail",
+      "date": "2026-10-26"
+    }
+  ],
+  "last_updated": "2026-10-26"
+}

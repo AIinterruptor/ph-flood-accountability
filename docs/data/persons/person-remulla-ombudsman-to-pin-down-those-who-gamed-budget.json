@@ -1,0 +1,27 @@
+{
+  "id": "person-remulla-ombudsman-to-pin-down-those-who-gamed-budget",
+  "name": "Remulla: Ombudsman to pin down those who ‘gamed’ budget",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2330688/remulla-ombudsman-to-pin-down-those-who-gamed-budget",
+      "date": "2026-10-26"
+    }
+  ],
+  "last_updated": "2026-10-26"
+}

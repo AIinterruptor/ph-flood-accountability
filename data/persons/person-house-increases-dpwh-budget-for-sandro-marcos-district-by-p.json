@@ -1,0 +1,27 @@
+{
+  "id": "person-house-increases-dpwh-budget-for-sandro-marcos-district-by-p",
+  "name": "House increases DPWH budget for Sandro Marcos’ district by P4.3B – watchdog",
+  "position": "",
+  "agency": "DPWH",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.rappler.com/philippines/dpwh-budget-sandro-marcos-district-jumps-billions-house-bill-2027-watchdog/",
+      "date": "2026-10-26"
+    }
+  ],
+  "last_updated": "2026-10-26"
+}

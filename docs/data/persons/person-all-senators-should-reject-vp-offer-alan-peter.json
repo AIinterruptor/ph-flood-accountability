@@ -1,0 +1,27 @@
+{
+  "id": "person-all-senators-should-reject-vp-offer-alan-peter",
+  "name": "All senators should reject VP offer – Alan Peter",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/headlines/2026/10/27/2565924/all-senators-should-reject-vp-offer-alan-peter",
+      "date": "2026-10-26"
+    }
+  ],
+  "last_updated": "2026-10-26"
+}

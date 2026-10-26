@@ -1,8 +1,8 @@
 {
   "id": "person-benjamin-magalong",
   "name": "Benjamin Magalong",
-  "position": "Secretary",
-  "agency": "DPWH",
+  "position": "Mayor",
+  "agency": "Unknown",
   "region": "Unknown",
   "status": "pending",
   "admin_track": {
@@ -19,9 +19,9 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://newsinfo.inquirer.net/2289648/dpwh-chief-visits-landslide-hit-area-in-baguio-inspects-other-infra",
-      "date": "2026-08-21"
+      "url": "https://newsinfo.inquirer.net/2330559/magalong-urges-coa-ombudsman-to-probe-voided-national-budgets",
+      "date": "2026-10-26"
     }
   ],
-  "last_updated": "2026-08-21"
+  "last_updated": "2026-10-26"
 }
