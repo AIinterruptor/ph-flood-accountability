@@ -1,0 +1,27 @@
+{
+  "id": "person-dizon-acknowledges-turo-criticisms-looks-forward-to-more",
+  "name": "Dizon acknowledges ‘turo’ criticisms, looks forward to more inspections",
+  "position": "",
+  "agency": "DPWH",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2331268/dizon-acknowledges-turo-criticisms-looks-forward-to-more-inspections",
+      "date": "2026-10-27"
+    }
+  ],
+  "last_updated": "2026-10-27"
+}

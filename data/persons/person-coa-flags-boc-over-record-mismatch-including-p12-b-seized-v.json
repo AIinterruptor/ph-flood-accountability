@@ -1,0 +1,27 @@
+{
+  "id": "person-coa-flags-boc-over-record-mismatch-including-p12-b-seized-v",
+  "name": "COA flags BOC over record mismatch including P1.2-B seized vehicles",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2331281/coa-flags-boc-over-record-mismatch-including-p1-2-b-seized-vehicles",
+      "date": "2026-10-27"
+    }
+  ],
+  "last_updated": "2026-10-27"
+}

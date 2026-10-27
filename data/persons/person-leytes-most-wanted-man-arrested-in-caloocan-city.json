@@ -1,0 +1,27 @@
+{
+  "id": "person-leytes-most-wanted-man-arrested-in-caloocan-city",
+  "name": "Leyte’s most wanted man arrested in Caloocan City",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2331294/leytes-most-wanted-man-arrested-in-caloocan-city",
+      "date": "2026-10-27"
+    }
+  ],
+  "last_updated": "2026-10-27"
+}
