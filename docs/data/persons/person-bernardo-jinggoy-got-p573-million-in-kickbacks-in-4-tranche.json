@@ -1,0 +1,27 @@
+{
+  "id": "person-bernardo-jinggoy-got-p573-million-in-kickbacks-in-4-tranche",
+  "name": "Bernardo: Jinggoy got P573 million in kickbacks in 4 tranches",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/headlines/2026/10/29/2566430/bernardo-jinggoy-got-p573-million-kickbacks-4-tranches",
+      "date": "2026-10-28"
+    }
+  ],
+  "last_updated": "2026-10-28"
+}

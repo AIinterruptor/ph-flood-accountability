@@ -1,0 +1,27 @@
+{
+  "id": "person-pre-shaded-ballots-found-beyond-maluso-in-barmm-polls-watc",
+  "name": "Pre-shaded ballots found beyond Maluso in BARMM polls – watchdog",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2331949/pre-shaded-ballots-found-beyond-maluso-in-barmm-polls-watchdog",
+      "date": "2026-10-28"
+    }
+  ],
+  "last_updated": "2026-10-28"
+}

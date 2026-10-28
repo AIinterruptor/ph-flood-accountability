@@ -1,0 +1,27 @@
+{
+  "id": "person-nestor-dionson-archival-sr",
+  "name": "Nestor Dionson Archival Sr",
+  "position": "Mayor",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "filed",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2331884/ombudsman-fines-cebu-city-mayor-over-night-market-operations",
+      "date": "2026-10-28"
+    }
+  ],
+  "last_updated": "2026-10-28"
+}

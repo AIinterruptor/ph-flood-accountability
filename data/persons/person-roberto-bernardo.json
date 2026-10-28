@@ -1,0 +1,32 @@
+{
+  "id": "person-roberto-bernardo",
+  "name": "Roberto Bernardo",
+  "position": "Secretary",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "filed",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2331830/bernardo-on-testimony-vs-estrada-ang-hirap-ipahamak-ng-kaibigan",
+      "date": "2026-10-28"
+    },
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2331806/bernardo-jinggoy-estrada-asked-my-help-to-get-p1-b-leadership-fund",
+      "date": "2026-10-28"
+    }
+  ],
+  "last_updated": "2026-10-28"
+}
