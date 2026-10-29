@@ -1,0 +1,27 @@
+{
+  "id": "person-raymond-alvin-garcia",
+  "name": "Raymond Alvin Garcia",
+  "position": "Mayor",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "charged",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "filed",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2332595/ex-cebu-city-mayor-challenges-ombudsman-ruling-over-cockfighting-events",
+      "date": "2026-10-29"
+    }
+  ],
+  "last_updated": "2026-10-29"
+}

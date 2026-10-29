@@ -1,8 +1,8 @@
 {
   "id": "person-speaker-martin-romualdez",
   "name": "Speaker Martin Romualdez",
-  "position": "",
-  "agency": "Unknown",
+  "position": "Secretary",
+  "agency": "DPWH",
   "region": "Unknown",
   "status": "pending",
   "admin_track": {
@@ -19,9 +19,14 @@
   "sources": [
     {
       "type": "news",
-      "url": "https://www.philstar.com/headlines/2026/09/20/2557529/romualdez-camp-ex-speaker-not-corruption-mastermind",
-      "date": "2026-09-19"
+      "url": "https://newsinfo.inquirer.net/2332665/ex-dpwh-usec-cant-recall-romualdez-pushing-for-infra-projects",
+      "date": "2026-10-29"
+    },
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2332546/bernardo-says-he-has-no-dealings-with-romualdez",
+      "date": "2026-10-29"
     }
   ],
-  "last_updated": "2026-09-19"
+  "last_updated": "2026-10-29"
 }

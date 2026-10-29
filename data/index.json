@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-10-28T21:59:59Z",
+  "last_updated": "2026-10-29T22:13:19Z",
   "totals": {
     "projects": 0,
-    "persons": 7,
+    "persons": 8,
     "cases": 0,
     "convicted": 0,
     "funds_at_risk_php": 0
@@ -11,27 +11,27 @@
     "coa": {
       "status": "ok",
       "records": 0,
-      "last_success": "2026-10-28"
+      "last_success": "2026-10-29"
     },
     "ombudsman": {
       "status": "ok",
       "records": 0,
-      "last_success": "2026-10-28"
+      "last_success": "2026-10-29"
     },
     "sandiganbayan": {
       "status": "ok",
       "records": 0,
-      "last_success": "2026-10-28"
+      "last_success": "2026-10-29"
     },
     "news": {
       "status": "ok",
-      "records": 8,
-      "last_success": "2026-10-28"
+      "records": 9,
+      "last_success": "2026-10-29"
     },
     "dilg": {
       "status": "ok",
       "records": 0,
-      "last_success": "2026-10-28"
+      "last_success": "2026-10-29"
     }
   },
   "data_quality": {
