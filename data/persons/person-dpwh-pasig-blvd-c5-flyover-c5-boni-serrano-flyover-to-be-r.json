@@ -1,0 +1,27 @@
+{
+  "id": "person-dpwh-pasig-blvd-c5-flyover-c5-boni-serrano-flyover-to-be-r",
+  "name": "DPWH: Pasig Blvd-C5 Flyover, C5 Boni Serrano Flyover to be reopened ahead of sch",
+  "position": "",
+  "agency": "DPWH",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2334313/dpwh-pasig-blvd-c5-flyover-c5-boni-serrano-flyover-to-be-reopened-ahead-of-schedule",
+      "date": "2026-11-01"
+    }
+  ],
+  "last_updated": "2026-11-01"
+}

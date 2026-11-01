@@ -1,0 +1,27 @@
+{
+  "id": "person-paws-urges-estafa-complaint-vs-crematorium-over-29-dumped-p",
+  "name": "PAWS urges estafa complaint vs. crematorium over 29 dumped pets",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2334163/paws-urges-estafa-complaint-vs-crematorium-over-29-dumped-pets",
+      "date": "2026-11-01"
+    }
+  ],
+  "last_updated": "2026-11-01"
+}
