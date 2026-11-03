@@ -1,0 +1,27 @@
+{
+  "id": "person-edsa-busway-still-exclusive-to-buses-amid-temporary-scheme-i",
+  "name": "Edsa busway still exclusive to buses amid temporary scheme in one stretch",
+  "position": "",
+  "agency": "DPWH",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2335577/edsa-busway-still-exclusive-to-buses-amid-temporary-scheme-in-one-stretch",
+      "date": "2026-11-03"
+    }
+  ],
+  "last_updated": "2026-11-03"
+}

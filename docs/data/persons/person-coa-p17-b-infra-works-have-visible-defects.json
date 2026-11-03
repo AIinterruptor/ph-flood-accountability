@@ -1,0 +1,27 @@
+{
+  "id": "person-coa-p17-b-infra-works-have-visible-defects",
+  "name": "COA: P17-B infra works have ‘visible defects’",
+  "position": "",
+  "agency": "DPWH",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2335722/coa-p17-b-infra-works-have-visible-defects",
+      "date": "2026-11-03"
+    }
+  ],
+  "last_updated": "2026-11-03"
+}

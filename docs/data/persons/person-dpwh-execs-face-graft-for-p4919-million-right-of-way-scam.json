@@ -1,0 +1,27 @@
+{
+  "id": "person-dpwh-execs-face-graft-for-p4919-million-right-of-way-scam",
+  "name": "DPWH execs face graft for P491.9 million right-of-way scam",
+  "position": "",
+  "agency": "DPWH",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/headlines/2026/11/04/2567732/dpwh-execs-face-graft-p4919-million-right-way-scam",
+      "date": "2026-11-03"
+    }
+  ],
+  "last_updated": "2026-11-03"
+}

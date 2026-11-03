@@ -1,0 +1,27 @@
+{
+  "id": "person-5-filipinos-in-california-charged-with-illegal-voting",
+  "name": "5 Filipinos in California charged with illegal voting",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/headlines/2026/11/04/2567706/5-filipinos-california-charged-illegal-voting",
+      "date": "2026-11-03"
+    }
+  ],
+  "last_updated": "2026-11-03"
+}

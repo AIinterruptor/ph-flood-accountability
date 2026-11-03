@@ -1,0 +1,27 @@
+{
+  "id": "person-latest-dpwh-stink-p491-m-right-of-way-scam-6-face-graft",
+  "name": "Latest DPWH stink: P491-M ‘right-of-way scam’; 6 face graft raps",
+  "position": "",
+  "agency": "DPWH",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2335724/latest-dpwh-stink-p491-m-right-of-way-scam-6-face-graft-raps",
+      "date": "2026-11-03"
+    }
+  ],
+  "last_updated": "2026-11-03"
+}

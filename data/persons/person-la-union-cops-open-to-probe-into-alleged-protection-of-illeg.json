@@ -1,0 +1,27 @@
+{
+  "id": "person-la-union-cops-open-to-probe-into-alleged-protection-of-illeg",
+  "name": "La Union cops open to probe into alleged protection of illegal gambling",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2335649/la-union-cops-open-to-probe-into-alleged-protection-of-illegal-gambling",
+      "date": "2026-11-03"
+    }
+  ],
+  "last_updated": "2026-11-03"
+}
