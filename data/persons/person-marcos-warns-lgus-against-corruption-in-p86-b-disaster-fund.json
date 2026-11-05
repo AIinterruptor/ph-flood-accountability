@@ -1,0 +1,27 @@
+{
+  "id": "person-marcos-warns-lgus-against-corruption-in-p86-b-disaster-fund",
+  "name": "Marcos warns LGUs against corruption in P8.6-B disaster funds",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2336754/marcos-warns-lgus-against-corruption-in-p8-6-b-disaster-funds",
+      "date": "2026-11-05"
+    }
+  ],
+  "last_updated": "2026-11-05"
+}

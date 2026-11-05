@@ -1,0 +1,27 @@
+{
+  "id": "person-marcos-jr-no-room-for-corruption-in-disaster-rehab",
+  "name": "Marcos Jr.: No room for corruption in disaster rehab",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/headlines/2026/11/06/2568179/marcos-jr-no-room-corruption-disaster-rehab",
+      "date": "2026-11-05"
+    }
+  ],
+  "last_updated": "2026-11-05"
+}
