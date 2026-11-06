@@ -1,0 +1,27 @@
+{
+  "id": "person-vps-saln-amlc-records-formally-admitted-into-evidence",
+  "name": "VP’s SALN, AMLC records formally admitted into evidence",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/headlines/2026/11/07/2568397/vps-saln-amlc-records-formally-admitted-evidence",
+      "date": "2026-11-06"
+    }
+  ],
+  "last_updated": "2026-11-06"
+}

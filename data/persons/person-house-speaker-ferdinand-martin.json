@@ -1,0 +1,27 @@
+{
+  "id": "person-house-speaker-ferdinand-martin",
+  "name": "House Speaker Ferdinand Martin",
+  "position": "Secretary",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "filed",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2337342/remulla-to-bjmp-report-on-romualdezs-personal-aide-within-48-hours",
+      "date": "2026-11-06"
+    }
+  ],
+  "last_updated": "2026-11-06"
+}

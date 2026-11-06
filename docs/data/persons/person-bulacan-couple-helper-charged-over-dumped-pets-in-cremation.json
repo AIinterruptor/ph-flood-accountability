@@ -1,0 +1,27 @@
+{
+  "id": "person-bulacan-couple-helper-charged-over-dumped-pets-in-cremation",
+  "name": "Bulacan couple, helper charged over dumped pets in cremation scandal",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2337353/bulacan-couple-helper-charged-over-dumped-pets-in-cremation-scandal",
+      "date": "2026-11-06"
+    }
+  ],
+  "last_updated": "2026-11-06"
+}
