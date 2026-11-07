@@ -1,0 +1,27 @@
+{
+  "id": "person-cebu-archbishop-budget-insertions-raise-moral-accountabili",
+  "name": "Cebu archbishop: Budget insertions raise moral, accountability concerns",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2337725/cebu-archbishop-budget-insertions-raise-moral-accountability-concerns",
+      "date": "2026-11-07"
+    }
+  ],
+  "last_updated": "2026-11-07"
+}

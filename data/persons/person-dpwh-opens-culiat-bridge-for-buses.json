@@ -1,0 +1,27 @@
+{
+  "id": "person-dpwh-opens-culiat-bridge-for-buses",
+  "name": "DPWH opens Culiat Bridge for buses",
+  "position": "",
+  "agency": "DPWH",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/nation/2026/11/08/2568613/dpwh-opens-culiat-bridge-buses",
+      "date": "2026-11-07"
+    }
+  ],
+  "last_updated": "2026-11-07"
+}

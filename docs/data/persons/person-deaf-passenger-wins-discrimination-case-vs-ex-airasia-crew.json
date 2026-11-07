@@ -1,0 +1,27 @@
+{
+  "id": "person-deaf-passenger-wins-discrimination-case-vs-ex-airasia-crew",
+  "name": "Deaf passenger wins discrimination case vs ex-AirAsia crew",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://newsinfo.inquirer.net/2337562/deaf-passenger-wins-decade-long-discrimination-case-vs-ex-airline-crew",
+      "date": "2026-11-07"
+    }
+  ],
+  "last_updated": "2026-11-07"
+}
