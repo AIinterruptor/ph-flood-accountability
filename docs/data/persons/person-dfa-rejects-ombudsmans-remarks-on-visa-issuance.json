@@ -1,0 +1,27 @@
+{
+  "id": "person-dfa-rejects-ombudsmans-remarks-on-visa-issuance",
+  "name": "DFA rejects ombudsman’s remarks on visa issuance",
+  "position": "",
+  "agency": "Unknown",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/headlines/2026/11/09/2568857/dfa-rejects-ombudsmans-remarks-visa-issuance",
+      "date": "2026-11-08"
+    }
+  ],
+  "last_updated": "2026-11-08"
+}
