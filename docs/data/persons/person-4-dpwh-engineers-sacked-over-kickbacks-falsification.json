@@ -1,0 +1,27 @@
+{
+  "id": "person-4-dpwh-engineers-sacked-over-kickbacks-falsification",
+  "name": "4 DPWH engineers sacked over kickbacks, falsification",
+  "position": "",
+  "agency": "DPWH",
+  "region": "Unknown",
+  "status": "pending",
+  "admin_track": {
+    "stage": "none",
+    "status": "none",
+    "case_ids": []
+  },
+  "criminal_track": {
+    "stage": "investigation",
+    "status": "pending",
+    "case_ids": []
+  },
+  "projects": [],
+  "sources": [
+    {
+      "type": "news",
+      "url": "https://www.philstar.com/nation/2026/11/10/2569044/4-dpwh-engineers-sacked-over-kickbacks-falsification",
+      "date": "2026-11-10"
+    }
+  ],
+  "last_updated": "2026-11-10"
+}
